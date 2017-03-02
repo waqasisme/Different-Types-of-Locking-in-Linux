@@ -1,0 +1,1878 @@
+
+
+Normal() test run started on 07/05/15 09.23.22.468
+Total Threads: 43
+(Reader thread 1) threadID: 3017492224	Created at: 07/05/15 09.23.22.469
+(Reader thread 1) threadID: 3017492224	Begins reading "normal.in" at: 07/05/15 09.23.22.469
+(Reader thread 0) threadID: 3025884928	Created at: 07/05/15 09.23.22.469
+(Writer thread 2) threadID: 3009099520	Created at: 07/05/15 09.23.22.469
+(Reader thread 0) threadID: 3025884928	Begins reading "normal.in" at: 07/05/15 09.23.22.469
+(Writer thread 2) threadID: 3009099520	Begins writing "normal.in" at: 07/05/15 09.23.22.470
+(Reader thread 3) threadID: 3000706816	Created at: 07/05/15 09.23.22.471
+(Reader thread 4) threadID: 2992314112	Created at: 07/05/15 09.23.22.471
+(Reader thread 3) threadID: 3000706816	Begins reading "normal.in" at: 07/05/15 09.23.22.471
+(Reader thread 4) threadID: 2992314112	Begins reading "normal.in" at: 07/05/15 09.23.22.471
+(Reader thread 7) threadID: 2967136000	Created at: 07/05/15 09.23.22.472
+(Reader thread 7) threadID: 2967136000	Begins reading "normal.in" at: 07/05/15 09.23.22.472
+(Reader thread 9) threadID: 2608850688	Created at: 07/05/15 09.23.22.472
+(Reader thread 9) threadID: 2608850688	Begins reading "normal.in" at: 07/05/15 09.23.22.472
+(Writer thread 10) threadID: 2483025664	Created at: 07/05/15 09.23.22.472
+(Writer thread 10) threadID: 2483025664	Begins writing "normal.in" at: 07/05/15 09.23.22.473
+(Writer thread 5) threadID: 2983921408	Created at: 07/05/15 09.23.22.473
+(Reader thread 13) threadID: 2583672576	Created at: 07/05/15 09.23.22.473
+(Reader thread 12) threadID: 2592065280	Created at: 07/05/15 09.23.22.473
+(Reader thread 8) threadID: 2617243392	Created at: 07/05/15 09.23.22.473
+(Reader thread 11) threadID: 2600457984	Created at: 07/05/15 09.23.22.473
+(Reader thread 15) threadID: 2566887168	Created at: 07/05/15 09.23.22.473
+(Writer thread 14) threadID: 2575279872	Created at: 07/05/15 09.23.22.474
+(Reader thread 12) threadID: 2592065280	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 13) threadID: 2583672576	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 8) threadID: 2617243392	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Writer thread 5) threadID: 2983921408	Begins writing "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 6) threadID: 2975528704	Created at: 07/05/15 09.23.22.474
+(Reader thread 15) threadID: 2566887168	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 16) threadID: 2474632960	Created at: 07/05/15 09.23.22.474
+(Writer thread 14) threadID: 2575279872	Begins writing "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 11) threadID: 2600457984	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 6) threadID: 2975528704	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 16) threadID: 2474632960	Begins reading "normal.in" at: 07/05/15 09.23.22.474
+(Reader thread 17) threadID: 2466240256	Created at: 07/05/15 09.23.22.474
+(Reader thread 17) threadID: 2466240256	Begins reading "normal.in" at: 07/05/15 09.23.22.475
+(Writer thread 21) threadID: 2432669440	Created at: 07/05/15 09.23.22.475
+(Reader thread 18) threadID: 2457847552	Created at: 07/05/15 09.23.22.475
+(Reader thread 20) threadID: 2441062144	Created at: 07/05/15 09.23.22.475
+(Reader thread 23) threadID: 1803544320	Created at: 07/05/15 09.23.22.475
+(Reader thread 18) threadID: 2457847552	Begins reading "normal.in" at: 07/05/15 09.23.22.475
+(Reader thread 19) threadID: 2449454848	Created at: 07/05/15 09.23.22.475
+(Writer thread 21) threadID: 2432669440	Begins writing "normal.in" at: 07/05/15 09.23.22.475
+(Reader thread 20) threadID: 2441062144	Begins reading "normal.in" at: 07/05/15 09.23.22.476
+(Reader thread 22) threadID: 1811937024	Created at: 07/05/15 09.23.22.476
+(Reader thread 23) threadID: 1803544320	Begins reading "normal.in" at: 07/05/15 09.23.22.476
+(Writer thread 24) threadID: 1795151616	Created at: 07/05/15 09.23.22.476
+(Reader thread 19) threadID: 2449454848	Begins reading "normal.in" at: 07/05/15 09.23.22.476
+(Reader thread 22) threadID: 1811937024	Begins reading "normal.in" at: 07/05/15 09.23.22.476
+(Writer thread 24) threadID: 1795151616	Begins writing "normal.in" at: 07/05/15 09.23.22.476
+(Reader thread 25) threadID: 1786758912	Created at: 07/05/15 09.23.22.479
+(Reader thread 25) threadID: 1786758912	Begins reading "normal.in" at: 07/05/15 09.23.22.479
+(Writer thread 32) threadID: 1728009984	Created at: 07/05/15 09.23.22.479
+(Writer thread 32) threadID: 1728009984	Begins writing "normal.in" at: 07/05/15 09.23.22.479
+(Reader thread 31) threadID: 1736402688	Created at: 07/05/15 09.23.22.480
+(Reader thread 31) threadID: 1736402688	Begins reading "normal.in" at: 07/05/15 09.23.22.480
+(Reader thread 30) threadID: 1744795392	Created at: 07/05/15 09.23.22.480
+(Reader thread 30) threadID: 1744795392	Begins reading "normal.in" at: 07/05/15 09.23.22.480
+(Reader thread 29) threadID: 1753188096	Created at: 07/05/15 09.23.22.480
+(Reader thread 29) threadID: 1753188096	Begins reading "normal.in" at: 07/05/15 09.23.22.480
+(Reader thread 28) threadID: 1761580800	Created at: 07/05/15 09.23.22.480
+(Reader thread 28) threadID: 1761580800	Begins reading "normal.in" at: 07/05/15 09.23.22.480
+(Reader thread 27) threadID: 1769973504	Created at: 07/05/15 09.23.22.480
+(Reader thread 27) threadID: 1769973504	Begins reading "normal.in" at: 07/05/15 09.23.22.480
+(Reader thread 33) threadID: 1719617280	Created at: 07/05/15 09.23.22.484
+(Reader thread 34) threadID: 1711224576	Created at: 07/05/15 09.23.22.484
+(Reader thread 34) threadID: 1711224576	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Writer thread 35) threadID: 1702831872	Created at: 07/05/15 09.23.22.484
+(Writer thread 35) threadID: 1702831872	Begins writing "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 37) threadID: 1686046464	Created at: 07/05/15 09.23.22.484
+(Reader thread 37) threadID: 1686046464	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 38) threadID: 1677653760	Created at: 07/05/15 09.23.22.484
+(Reader thread 38) threadID: 1677653760	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 39) threadID: 1669261056	Created at: 07/05/15 09.23.22.484
+(Reader thread 39) threadID: 1669261056	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 40) threadID: 1660868352	Created at: 07/05/15 09.23.22.484
+(Reader thread 40) threadID: 1660868352	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Writer thread 41) threadID: 1652475648	Created at: 07/05/15 09.23.22.484
+(Writer thread 41) threadID: 1652475648	Begins writing "normal.in" at: 07/05/15 09.23.22.484
+(Writer thread 42) threadID: 1644082944	Created at: 07/05/15 09.23.22.484
+(Writer thread 42) threadID: 1644082944	Begins writing "normal.in" at: 07/05/15 09.23.22.484
+(Writer thread 36) threadID: 1694439168	Created at: 07/05/15 09.23.22.484
+(Writer thread 36) threadID: 1694439168	Begins writing "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 33) threadID: 1719617280	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Reader thread 26) threadID: 1778366208	Created at: 07/05/15 09.23.22.484
+(Reader thread 26) threadID: 1778366208	Begins reading "normal.in" at: 07/05/15 09.23.22.484
+(Writer thread 10) threadID: 2483025664	Ends   writing "normal.in" at: 07/05/15 09.23.22.875
+(Writer thread 14) threadID: 2575279872	Ends   writing "normal.in" at: 07/05/15 09.23.22.886
+(Writer thread 5) threadID: 2983921408	Ends   writing "normal.in" at: 07/05/15 09.23.22.887
+(Writer thread 24) threadID: 1795151616	Ends   writing "normal.in" at: 07/05/15 09.23.22.893
+(Writer thread 2) threadID: 3009099520	Ends   writing "normal.in" at: 07/05/15 09.23.22.893
+(Writer thread 32) threadID: 1728009984	Ends   writing "normal.in" at: 07/05/15 09.23.22.893
+(Writer thread 21) threadID: 2432669440	Ends   writing "normal.in" at: 07/05/15 09.23.22.899
+(Writer thread 35) threadID: 1702831872	Ends   writing "normal.in" at: 07/05/15 09.23.22.899
+(Writer thread 41) threadID: 1652475648	Ends   writing "normal.in" at: 07/05/15 09.23.22.899
+(Writer thread 36) threadID: 1694439168	Ends   writing "normal.in" at: 07/05/15 09.23.22.899
+(Writer thread 42) threadID: 1644082944	Ends   writing "normal.in" at: 07/05/15 09.23.22.899
+(Reader thread 34) threadID: 1711224576	Ends   reading "normal.in" at: 07/05/15 09.23.37.101
+(Reader thread 7) threadID: 2967136000	Ends   reading "normal.in" at: 07/05/15 09.23.37.117
+(Reader thread 30) threadID: 1744795392	Ends   reading "normal.in" at: 07/05/15 09.23.37.146
+(Reader thread 9) threadID: 2608850688	Ends   reading "normal.in" at: 07/05/15 09.23.37.153
+(Reader thread 0) threadID: 3025884928	Ends   reading "normal.in" at: 07/05/15 09.23.37.159
+(Reader thread 26) threadID: 1778366208	Ends   reading "normal.in" at: 07/05/15 09.23.37.159
+(Reader thread 25) threadID: 1786758912	Ends   reading "normal.in" at: 07/05/15 09.23.37.160
+(Reader thread 23) threadID: 1803544320	Ends   reading "normal.in" at: 07/05/15 09.23.37.161
+(Reader thread 19) threadID: 2449454848	Ends   reading "normal.in" at: 07/05/15 09.23.37.163
+(Reader thread 29) threadID: 1753188096	Ends   reading "normal.in" at: 07/05/15 09.23.37.174
+(Reader thread 1) threadID: 3017492224	Ends   reading "normal.in" at: 07/05/15 09.23.37.193
+(Reader thread 39) threadID: 1669261056	Ends   reading "normal.in" at: 07/05/15 09.23.37.196
+(Reader thread 40) threadID: 1660868352	Ends   reading "normal.in" at: 07/05/15 09.23.37.211
+(Reader thread 12) threadID: 2592065280	Ends   reading "normal.in" at: 07/05/15 09.23.37.233
+(Reader thread 37) threadID: 1686046464	Ends   reading "normal.in" at: 07/05/15 09.23.37.249
+(Reader thread 3) threadID: 3000706816	Ends   reading "normal.in" at: 07/05/15 09.23.37.251
+(Reader thread 27) threadID: 1769973504	Ends   reading "normal.in" at: 07/05/15 09.23.37.260
+(Reader thread 15) threadID: 2566887168	Ends   reading "normal.in" at: 07/05/15 09.23.37.261
+(Reader thread 22) threadID: 1811937024	Ends   reading "normal.in" at: 07/05/15 09.23.37.270
+(Reader thread 31) threadID: 1736402688	Ends   reading "normal.in" at: 07/05/15 09.23.37.273
+(Reader thread 28) threadID: 1761580800	Ends   reading "normal.in" at: 07/05/15 09.23.37.289
+(Reader thread 18) threadID: 2457847552	Ends   reading "normal.in" at: 07/05/15 09.23.37.295
+(Reader thread 38) threadID: 1677653760	Ends   reading "normal.in" at: 07/05/15 09.23.37.296
+(Reader thread 17) threadID: 2466240256	Ends   reading "normal.in" at: 07/05/15 09.23.37.309
+(Reader thread 6) threadID: 2975528704	Ends   reading "normal.in" at: 07/05/15 09.23.37.315
+(Reader thread 13) threadID: 2583672576	Ends   reading "normal.in" at: 07/05/15 09.23.37.336
+(Reader thread 4) threadID: 2992314112	Ends   reading "normal.in" at: 07/05/15 09.23.37.336
+(Reader thread 8) threadID: 2617243392	Ends   reading "normal.in" at: 07/05/15 09.23.37.342
+(Reader thread 33) threadID: 1719617280	Ends   reading "normal.in" at: 07/05/15 09.23.37.343
+(Reader thread 11) threadID: 2600457984	Ends   reading "normal.in" at: 07/05/15 09.23.37.347
+(Reader thread 16) threadID: 2474632960	Ends   reading "normal.in" at: 07/05/15 09.23.37.349
+(Reader thread 20) threadID: 2441062144	Ends   reading "normal.in" at: 07/05/15 09.23.37.363
+
+Normal() test run end on 07/05/15 09.23.37.364
+
+
+Normal() test run started on 07/05/15 09.27.52.786
+Total Threads: 41
+(Reader thread 1) threadID: 846288640	Created at: 07/05/15 09.27.52.789
+(Reader thread 0) threadID: 854681344	Created at: 07/05/15 09.27.52.789
+(Reader thread 1) threadID: 846288640	Begins reading "normal.in" at: 07/05/15 09.27.52.789
+(Writer thread 2) threadID: 703678208	Created at: 07/05/15 09.27.52.790
+(Reader thread 0) threadID: 854681344	Begins reading "normal.in" at: 07/05/15 09.27.52.790
+(Writer thread 2) threadID: 703678208	Begins writing "normal.in" at: 07/05/15 09.27.52.795
+(Reader thread 6) threadID: 738195200	Created at: 07/05/15 09.27.52.810
+(Reader thread 6) threadID: 738195200	Begins reading "normal.in" at: 07/05/15 09.27.52.810
+(Reader thread 3) threadID: 837895936	Created at: 07/05/15 09.27.52.812
+(Reader thread 3) threadID: 837895936	Begins reading "normal.in" at: 07/05/15 09.27.52.812
+(Reader thread 7) threadID: 729802496	Created at: 07/05/15 09.27.52.819
+(Reader thread 7) threadID: 729802496	Begins reading "normal.in" at: 07/05/15 09.27.52.819
+(Writer thread 2) threadID: 703678208	Ends   writing "normal.in" at: 07/05/15 09.27.52.834
+(Writer thread 19) threadID: 335542016	Created at: 07/05/15 09.27.52.834
+(Writer thread 27) threadID: 268400384	Created at: 07/05/15 09.27.52.834
+(Reader thread 11) threadID: 686892800	Created at: 07/05/15 09.27.52.834
+(Reader thread 39) threadID: 167687936	Created at: 07/05/15 09.27.52.834
+(Writer thread 34) threadID: 209651456	Created at: 07/05/15 09.27.52.834
+(Writer thread 40) threadID: 159295232	Created at: 07/05/15 09.27.52.834
+(Reader thread 26) threadID: 276793088	Created at: 07/05/15 09.27.52.834
+(Reader thread 32) threadID: 226436864	Created at: 07/05/15 09.27.52.834
+(Reader thread 30) threadID: 243222272	Created at: 07/05/15 09.27.52.834
+(Reader thread 37) threadID: 184473344	Created at: 07/05/15 09.27.52.834
+(Reader thread 21) threadID: 318756608	Created at: 07/05/15 09.27.52.834
+(Writer thread 24) threadID: 293578496	Created at: 07/05/15 09.27.52.834
+(Reader thread 31) threadID: 234829568	Created at: 07/05/15 09.27.52.835
+(Reader thread 23) threadID: 301971200	Created at: 07/05/15 09.27.52.835
+(Reader thread 8) threadID: 721409792	Created at: 07/05/15 09.27.52.835
+(Reader thread 22) threadID: 310363904	Created at: 07/05/15 09.27.52.835
+(Reader thread 10) threadID: 695285504	Created at: 07/05/15 09.27.52.835
+(Reader thread 17) threadID: 427796224	Created at: 07/05/15 09.27.52.835
+(Reader thread 15) threadID: 444581632	Created at: 07/05/15 09.27.52.835
+(Writer thread 16) threadID: 436188928	Created at: 07/05/15 09.27.52.835
+(Reader thread 18) threadID: 419403520	Created at: 07/05/15 09.27.52.835
+(Reader thread 14) threadID: 452974336	Created at: 07/05/15 09.27.52.835
+(Reader thread 13) threadID: 461367040	Created at: 07/05/15 09.27.52.835
+(Writer thread 12) threadID: 469759744	Created at: 07/05/15 09.27.52.835
+(Reader thread 29) threadID: 251614976	Created at: 07/05/15 09.27.52.835
+(Writer thread 19) threadID: 335542016	Begins writing "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 38) threadID: 176080640	Created at: 07/05/15 09.27.52.835
+(Reader thread 28) threadID: 260007680	Created at: 07/05/15 09.27.52.835
+(Writer thread 33) threadID: 218044160	Created at: 07/05/15 09.27.52.835
+(Reader thread 35) threadID: 201258752	Created at: 07/05/15 09.27.52.835
+(Reader thread 25) threadID: 285185792	Created at: 07/05/15 09.27.52.835
+(Reader thread 36) threadID: 192866048	Created at: 07/05/15 09.27.52.835
+(Reader thread 9) threadID: 713017088	Created at: 07/05/15 09.27.52.835
+(Reader thread 11) threadID: 686892800	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 30) threadID: 243222272	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 26) threadID: 276793088	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 32) threadID: 226436864	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Writer thread 40) threadID: 159295232	Begins writing "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 37) threadID: 184473344	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 21) threadID: 318756608	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Writer thread 34) threadID: 209651456	Begins writing "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 39) threadID: 167687936	Begins reading "normal.in" at: 07/05/15 09.27.52.835
+(Reader thread 29) threadID: 251614976	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 10) threadID: 695285504	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 18) threadID: 419403520	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 15) threadID: 444581632	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 14) threadID: 452974336	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Writer thread 16) threadID: 436188928	Begins writing "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 17) threadID: 427796224	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 13) threadID: 461367040	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 9) threadID: 713017088	Begins reading "normal.in" at: 07/05/15 09.27.52.836
+(Reader thread 8) threadID: 721409792	Begins reading "normal.in" at: 07/05/15 09.27.52.837
+(Reader thread 35) threadID: 201258752	Begins reading "normal.in" at: 07/05/15 09.27.52.842
+(Writer thread 33) threadID: 218044160	Begins writing "normal.in" at: 07/05/15 09.27.52.842
+(Reader thread 25) threadID: 285185792	Begins reading "normal.in" at: 07/05/15 09.27.52.842
+(Reader thread 28) threadID: 260007680	Begins reading "normal.in" at: 07/05/15 09.27.52.842
+(Reader thread 36) threadID: 192866048	Begins reading "normal.in" at: 07/05/15 09.27.52.843
+(Reader thread 31) threadID: 234829568	Begins reading "normal.in" at: 07/05/15 09.27.52.843
+(Reader thread 38) threadID: 176080640	Begins reading "normal.in" at: 07/05/15 09.27.52.843
+(Reader thread 22) threadID: 310363904	Begins reading "normal.in" at: 07/05/15 09.27.52.843
+(Writer thread 27) threadID: 268400384	Begins writing "normal.in" at: 07/05/15 09.27.52.854
+(Writer thread 24) threadID: 293578496	Begins writing "normal.in" at: 07/05/15 09.27.52.854
+(Reader thread 23) threadID: 301971200	Begins reading "normal.in" at: 07/05/15 09.27.52.862
+(Writer thread 12) threadID: 469759744	Begins writing "normal.in" at: 07/05/15 09.27.52.866
+(Writer thread 5) threadID: 821110528	Created at: 07/05/15 09.27.52.891
+(Reader thread 4) threadID: 829503232	Created at: 07/05/15 09.27.52.891
+(Writer thread 19) threadID: 335542016	Ends   writing "normal.in" at: 07/05/15 09.27.52.899
+(Writer thread 20) threadID: 327149312	Created at: 07/05/15 09.27.52.930
+(Writer thread 40) threadID: 159295232	Ends   writing "normal.in" at: 07/05/15 09.27.52.933
+(Writer thread 16) threadID: 436188928	Ends   writing "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 5) threadID: 821110528	Begins writing "normal.in" at: 07/05/15 09.27.52.942
+(Reader thread 4) threadID: 829503232	Begins reading "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 34) threadID: 209651456	Ends   writing "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 12) threadID: 469759744	Ends   writing "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 20) threadID: 327149312	Begins writing "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 33) threadID: 218044160	Ends   writing "normal.in" at: 07/05/15 09.27.52.942
+(Writer thread 27) threadID: 268400384	Ends   writing "normal.in" at: 07/05/15 09.27.52.943
+(Writer thread 24) threadID: 293578496	Ends   writing "normal.in" at: 07/05/15 09.27.52.946
+(Writer thread 5) threadID: 821110528	Ends   writing "normal.in" at: 07/05/15 09.27.52.950
+(Writer thread 20) threadID: 327149312	Ends   writing "normal.in" at: 07/05/15 09.27.52.955
+(Reader thread 37) threadID: 184473344	Ends   reading "normal.in" at: 07/05/15 09.28.04.702
+(Reader thread 1) threadID: 846288640	Ends   reading "normal.in" at: 07/05/15 09.28.04.702
+(Reader thread 29) threadID: 251614976	Ends   reading "normal.in" at: 07/05/15 09.28.04.702
+(Reader thread 3) threadID: 837895936	Ends   reading "normal.in" at: 07/05/15 09.28.08.541
+(Reader thread 13) threadID: 461367040	Ends   reading "normal.in" at: 07/05/15 09.28.08.541
+(Reader thread 17) threadID: 427796224	Ends   reading "normal.in" at: 07/05/15 09.28.08.541
+(Reader thread 30) threadID: 243222272	Ends   reading "normal.in" at: 07/05/15 09.28.08.541
+(Reader thread 18) threadID: 419403520	Ends   reading "normal.in" at: 07/05/15 09.28.08.541
+(Reader thread 4) threadID: 829503232	Ends   reading "normal.in" at: 07/05/15 09.28.08.542
+(Reader thread 11) threadID: 686892800	Ends   reading "normal.in" at: 07/05/15 09.28.08.542
+(Reader thread 10) threadID: 695285504	Ends   reading "normal.in" at: 07/05/15 09.28.08.542
+(Reader thread 21) threadID: 318756608	Ends   reading "normal.in" at: 07/05/15 09.28.08.542
+(Reader thread 28) threadID: 260007680	Ends   reading "normal.in" at: 07/05/15 09.28.08.542
+(Reader thread 23) threadID: 301971200	Ends   reading "normal.in" at: 07/05/15 09.28.08.543
+(Reader thread 7) threadID: 729802496	Ends   reading "normal.in" at: 07/05/15 09.28.08.543
+(Reader thread 6) threadID: 738195200	Ends   reading "normal.in" at: 07/05/15 09.28.08.543
+(Reader thread 14) threadID: 452974336	Ends   reading "normal.in" at: 07/05/15 09.28.08.543
+(Reader thread 36) threadID: 192866048	Ends   reading "normal.in" at: 07/05/15 09.28.08.543
+(Reader thread 38) threadID: 176080640	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 25) threadID: 285185792	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 8) threadID: 721409792	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 0) threadID: 854681344	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 22) threadID: 310363904	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 26) threadID: 276793088	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 15) threadID: 444581632	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 35) threadID: 201258752	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 9) threadID: 713017088	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 39) threadID: 167687936	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 31) threadID: 234829568	Ends   reading "normal.in" at: 07/05/15 09.28.08.544
+(Reader thread 32) threadID: 226436864	Ends   reading "normal.in" at: 07/05/15 09.28.08.546
+
+Normal() test run end on 07/05/15 09.28.08.549
+
+
+Normal() test run started on 07/05/15 09.38.52.128
+Total Threads: 6
+(Reader thread 1) threadID: 4194600704	Created at: 07/05/15 09.38.52.457
+(Reader thread 2) threadID: 4051990272	Created at: 07/05/15 09.38.52.457
+(Reader thread 0) threadID: 4202993408	Created at: 07/05/15 09.38.52.458
+(Reader thread 3) threadID: 4093638400	Created at: 07/05/15 09.38.52.458
+(Reader thread 2) threadID: 4051990272	Begins reading "normal.in" at: 07/05/15 09.38.52.458
+(Reader thread 1) threadID: 4194600704	Begins reading "normal.in" at: 07/05/15 09.38.52.458
+(Reader thread 0) threadID: 4202993408	Begins reading "normal.in" at: 07/05/15 09.38.52.458
+(Reader thread 3) threadID: 4093638400	Begins reading "normal.in" at: 07/05/15 09.38.52.462
+(Writer thread 4) threadID: 4186208000	Created at: 07/05/15 09.38.52.467
+(Writer thread 5) threadID: 4177815296	Created at: 07/05/15 09.38.52.469
+(Writer thread 5) threadID: 4177815296	Begins writing "normal.in" at: 07/05/15 09.38.52.470
+(Writer thread 4) threadID: 4186208000	Begins writing "normal.in" at: 07/05/15 09.38.52.474
+(Writer thread 5) threadID: 4177815296	Ends   writing "normal.in" at: 07/05/15 09.38.52.646
+(Writer thread 4) threadID: 4186208000	Ends   writing "normal.in" at: 07/05/15 09.38.52.647
+(Reader thread 2) threadID: 4051990272	Ends   reading "normal.in" at: 07/05/15 09.39.16.844
+(Reader thread 3) threadID: 4093638400	Ends   reading "normal.in" at: 07/05/15 09.39.16.865
+(Reader thread 0) threadID: 4202993408	Ends   reading "normal.in" at: 07/05/15 09.39.16.885
+(Reader thread 1) threadID: 4194600704	Ends   reading "normal.in" at: 07/05/15 09.39.16.889
+
+Normal() test run end on 07/05/15 09.39.16.926
+
+
+Normal() test run started on 07/05/15 09.50.04.206
+Total Threads: 46
+(Reader thread 0) threadID: 790009600	Created at: 07/05/15 09.50.04.857
+(Reader thread 1) threadID: 781616896	Created at: 07/05/15 09.50.04.857
+(Writer thread 2) threadID: 773224192	Created at: 07/05/15 09.50.04.857
+(Reader thread 0) threadID: 790009600	Begins reading "normal.in" at: 07/05/15 09.50.04.857
+(Reader thread 1) threadID: 781616896	Begins reading "normal.in" at: 07/05/15 09.50.04.858
+(Reader thread 3) threadID: 630613760	Created at: 07/05/15 09.50.04.858
+(Writer thread 2) threadID: 773224192	Begins writing "normal.in" at: 07/05/15 09.50.04.858
+(Reader thread 3) threadID: 630613760	Begins reading "normal.in" at: 07/05/15 09.50.04.858
+(Reader thread 4) threadID: 764831488	Created at: 07/05/15 09.50.04.859
+(Reader thread 4) threadID: 764831488	Begins reading "normal.in" at: 07/05/15 09.50.04.879
+(Writer thread 2) threadID: 773224192	Ends   writing "normal.in" at: 07/05/15 09.50.04.879
+(Reader thread 5) threadID: 756438784	Created at: 07/05/15 09.50.04.886
+(Reader thread 5) threadID: 756438784	Begins reading "normal.in" at: 07/05/15 09.50.04.887
+(Reader thread 14) threadID: 260040448	Created at: 07/05/15 09.50.04.898
+(Reader thread 45) threadID: 4294833920	Created at: 07/05/15 09.50.04.898
+(Reader thread 45) threadID: 4294833920	Begins reading "normal.in" at: 07/05/15 09.50.04.899
+(Writer thread 44) threadID: 8259328	Created at: 07/05/15 09.50.04.902
+(Reader thread 27) threadID: 150935296	Created at: 07/05/15 09.50.04.904
+(Reader thread 13) threadID: 268433152	Created at: 07/05/15 09.50.04.902
+(Reader thread 41) threadID: 33437440	Created at: 07/05/15 09.50.04.902
+(Writer thread 24) threadID: 176113408	Created at: 07/05/15 09.50.04.902
+(Reader thread 38) threadID: 58615552	Created at: 07/05/15 09.50.04.905
+(Reader thread 15) threadID: 251647744	Created at: 07/05/15 09.50.04.902
+(Reader thread 43) threadID: 16652032	Created at: 07/05/15 09.50.04.902
+(Reader thread 9) threadID: 654300928	Created at: 07/05/15 09.50.04.902
+(Reader thread 20) threadID: 209684224	Created at: 07/05/15 09.50.04.904
+(Reader thread 21) threadID: 201291520	Created at: 07/05/15 09.50.04.904
+(Writer thread 12) threadID: 613828352	Created at: 07/05/15 09.50.04.902
+(Reader thread 26) threadID: 159328000	Created at: 07/05/15 09.50.04.905
+(Writer thread 30) threadID: 125757184	Created at: 07/05/15 09.50.04.905
+(Writer thread 25) threadID: 167720704	Created at: 07/05/15 09.50.04.905
+(Writer thread 23) threadID: 184506112	Created at: 07/05/15 09.50.04.905
+(Reader thread 22) threadID: 192898816	Created at: 07/05/15 09.50.04.905
+(Writer thread 29) threadID: 134149888	Created at: 07/05/15 09.50.04.905
+(Reader thread 28) threadID: 142542592	Created at: 07/05/15 09.50.04.905
+(Reader thread 11) threadID: 622221056	Created at: 07/05/15 09.50.04.908
+(Writer thread 40) threadID: 41830144	Created at: 07/05/15 09.50.04.908
+(Reader thread 14) threadID: 260040448	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 41) threadID: 33437440	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 13) threadID: 268433152	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Writer thread 12) threadID: 613828352	Begins writing "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 10) threadID: 645908224	Created at: 07/05/15 09.50.04.908
+(Reader thread 42) threadID: 25044736	Created at: 07/05/15 09.50.04.908
+(Writer thread 44) threadID: 8259328	Begins writing "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 16) threadID: 243255040	Created at: 07/05/15 09.50.04.908
+(Writer thread 8) threadID: 662693632	Created at: 07/05/15 09.50.04.908
+(Reader thread 17) threadID: 234862336	Created at: 07/05/15 09.50.04.908
+(Reader thread 43) threadID: 16652032	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 15) threadID: 251647744	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 9) threadID: 654300928	Begins reading "normal.in" at: 07/05/15 09.50.04.908
+(Reader thread 18) threadID: 226469632	Created at: 07/05/15 09.50.04.909
+(Reader thread 19) threadID: 218076928	Created at: 07/05/15 09.50.04.909
+(Reader thread 7) threadID: 671086336	Created at: 07/05/15 09.50.04.909
+(Writer thread 6) threadID: 748046080	Created at: 07/05/15 09.50.04.909
+(Reader thread 20) threadID: 209684224	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 21) threadID: 201291520	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Writer thread 24) threadID: 176113408	Begins writing "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 33) threadID: 100579072	Created at: 07/05/15 09.50.04.909
+(Reader thread 37) threadID: 67008256	Created at: 07/05/15 09.50.04.909
+(Reader thread 34) threadID: 92186368	Created at: 07/05/15 09.50.04.909
+(Reader thread 35) threadID: 83793664	Created at: 07/05/15 09.50.04.909
+(Reader thread 22) threadID: 192898816	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Writer thread 29) threadID: 134149888	Begins writing "normal.in" at: 07/05/15 09.50.04.909
+(Writer thread 30) threadID: 125757184	Begins writing "normal.in" at: 07/05/15 09.50.04.909
+(Writer thread 23) threadID: 184506112	Begins writing "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 38) threadID: 58615552	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Writer thread 25) threadID: 167720704	Begins writing "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 26) threadID: 159328000	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 28) threadID: 142542592	Begins reading "normal.in" at: 07/05/15 09.50.04.909
+(Reader thread 36) threadID: 75400960	Created at: 07/05/15 09.50.04.909
+(Writer thread 32) threadID: 108971776	Created at: 07/05/15 09.50.04.909
+(Reader thread 11) threadID: 622221056	Begins reading "normal.in" at: 07/05/15 09.50.04.913
+(Writer thread 40) threadID: 41830144	Begins writing "normal.in" at: 07/05/15 09.50.04.913
+(Reader thread 10) threadID: 645908224	Begins reading "normal.in" at: 07/05/15 09.50.04.929
+(Reader thread 42) threadID: 25044736	Begins reading "normal.in" at: 07/05/15 09.50.04.930
+(Reader thread 16) threadID: 243255040	Begins reading "normal.in" at: 07/05/15 09.50.04.930
+(Writer thread 8) threadID: 662693632	Begins writing "normal.in" at: 07/05/15 09.50.04.930
+(Reader thread 17) threadID: 234862336	Begins reading "normal.in" at: 07/05/15 09.50.04.930
+(Reader thread 18) threadID: 226469632	Begins reading "normal.in" at: 07/05/15 09.50.04.942
+(Reader thread 34) threadID: 92186368	Begins reading "normal.in" at: 07/05/15 09.50.04.942
+(Reader thread 27) threadID: 150935296	Begins reading "normal.in" at: 07/05/15 09.50.04.942
+(Writer thread 6) threadID: 748046080	Begins writing "normal.in" at: 07/05/15 09.50.04.942
+(Reader thread 19) threadID: 218076928	Begins reading "normal.in" at: 07/05/15 09.50.04.942
+(Reader thread 7) threadID: 671086336	Begins reading "normal.in" at: 07/05/15 09.50.04.943
+(Reader thread 35) threadID: 83793664	Begins reading "normal.in" at: 07/05/15 09.50.04.943
+(Reader thread 33) threadID: 100579072	Begins reading "normal.in" at: 07/05/15 09.50.04.951
+(Reader thread 37) threadID: 67008256	Begins reading "normal.in" at: 07/05/15 09.50.04.951
+(Writer thread 31) threadID: 117364480	Created at: 07/05/15 09.50.04.951
+(Reader thread 36) threadID: 75400960	Begins reading "normal.in" at: 07/05/15 09.50.04.959
+(Reader thread 39) threadID: 50222848	Created at: 07/05/15 09.50.04.995
+(Writer thread 44) threadID: 8259328	Ends   writing "normal.in" at: 07/05/15 09.50.05.010
+(Writer thread 12) threadID: 613828352	Ends   writing "normal.in" at: 07/05/15 09.50.05.011
+(Writer thread 24) threadID: 176113408	Ends   writing "normal.in" at: 07/05/15 09.50.05.022
+(Writer thread 29) threadID: 134149888	Ends   writing "normal.in" at: 07/05/15 09.50.05.030
+(Writer thread 23) threadID: 184506112	Ends   writing "normal.in" at: 07/05/15 09.50.05.030
+(Writer thread 32) threadID: 108971776	Begins writing "normal.in" at: 07/05/15 09.50.05.031
+(Writer thread 25) threadID: 167720704	Ends   writing "normal.in" at: 07/05/15 09.50.05.058
+(Writer thread 8) threadID: 662693632	Ends   writing "normal.in" at: 07/05/15 09.50.05.063
+(Writer thread 31) threadID: 117364480	Begins writing "normal.in" at: 07/05/15 09.50.05.063
+(Writer thread 40) threadID: 41830144	Ends   writing "normal.in" at: 07/05/15 09.50.05.065
+(Writer thread 30) threadID: 125757184	Ends   writing "normal.in" at: 07/05/15 09.50.05.069
+(Reader thread 39) threadID: 50222848	Begins reading "normal.in" at: 07/05/15 09.50.05.070
+(Writer thread 6) threadID: 748046080	Ends   writing "normal.in" at: 07/05/15 09.50.05.074
+(Writer thread 31) threadID: 117364480	Ends   writing "normal.in" at: 07/05/15 09.50.05.075
+(Writer thread 32) threadID: 108971776	Ends   writing "normal.in" at: 07/05/15 09.50.05.075
+(Reader thread 1) threadID: 781616896	Ends   reading "normal.in" at: 07/05/15 09.50.41.718
+(Reader thread 26) threadID: 159328000	Ends   reading "normal.in" at: 07/05/15 09.50.41.787
+(Reader thread 38) threadID: 58615552	Ends   reading "normal.in" at: 07/05/15 09.50.42.031
+(Reader thread 17) threadID: 234862336	Ends   reading "normal.in" at: 07/05/15 09.50.42.055
+(Reader thread 36) threadID: 75400960	Ends   reading "normal.in" at: 07/05/15 09.50.42.131
+(Reader thread 37) threadID: 67008256	Ends   reading "normal.in" at: 07/05/15 09.50.42.139
+(Reader thread 34) threadID: 92186368	Ends   reading "normal.in" at: 07/05/15 09.50.42.142
+(Reader thread 19) threadID: 218076928	Ends   reading "normal.in" at: 07/05/15 09.50.42.143
+(Reader thread 35) threadID: 83793664	Ends   reading "normal.in" at: 07/05/15 09.50.42.179
+(Reader thread 22) threadID: 192898816	Ends   reading "normal.in" at: 07/05/15 09.50.42.179
+(Reader thread 28) threadID: 142542592	Ends   reading "normal.in" at: 07/05/15 09.50.42.211
+(Reader thread 18) threadID: 226469632	Ends   reading "normal.in" at: 07/05/15 09.50.42.211
+(Reader thread 45) threadID: 4294833920	Ends   reading "normal.in" at: 07/05/15 09.50.42.295
+(Reader thread 11) threadID: 622221056	Ends   reading "normal.in" at: 07/05/15 09.50.42.363
+(Reader thread 7) threadID: 671086336	Ends   reading "normal.in" at: 07/05/15 09.50.43.151
+(Reader thread 5) threadID: 756438784	Ends   reading "normal.in" at: 07/05/15 09.50.43.231
+(Reader thread 21) threadID: 201291520	Ends   reading "normal.in" at: 07/05/15 09.50.43.291
+(Reader thread 41) threadID: 33437440	Ends   reading "normal.in" at: 07/05/15 09.50.43.331
+(Reader thread 27) threadID: 150935296	Ends   reading "normal.in" at: 07/05/15 09.50.43.342
+(Reader thread 16) threadID: 243255040	Ends   reading "normal.in" at: 07/05/15 09.50.43.367
+(Reader thread 15) threadID: 251647744	Ends   reading "normal.in" at: 07/05/15 09.50.43.367
+(Reader thread 10) threadID: 645908224	Ends   reading "normal.in" at: 07/05/15 09.50.43.419
+(Reader thread 0) threadID: 790009600	Ends   reading "normal.in" at: 07/05/15 09.50.43.421
+(Reader thread 42) threadID: 25044736	Ends   reading "normal.in" at: 07/05/15 09.50.43.437
+(Reader thread 13) threadID: 268433152	Ends   reading "normal.in" at: 07/05/15 09.50.43.449
+(Reader thread 20) threadID: 209684224	Ends   reading "normal.in" at: 07/05/15 09.50.43.451
+(Reader thread 14) threadID: 260040448	Ends   reading "normal.in" at: 07/05/15 09.50.43.469
+(Reader thread 39) threadID: 50222848	Ends   reading "normal.in" at: 07/05/15 09.50.43.472
+(Reader thread 43) threadID: 16652032	Ends   reading "normal.in" at: 07/05/15 09.50.43.479
+(Reader thread 4) threadID: 764831488	Ends   reading "normal.in" at: 07/05/15 09.50.43.479
+(Reader thread 33) threadID: 100579072	Ends   reading "normal.in" at: 07/05/15 09.50.43.479
+(Reader thread 3) threadID: 630613760	Ends   reading "normal.in" at: 07/05/15 09.50.43.485
+(Reader thread 9) threadID: 654300928	Ends   reading "normal.in" at: 07/05/15 09.50.43.500
+
+Normal() test run end on 07/05/15 09.50.43.501
+
+
+Normal() test run started on 07/05/15 09.57.34.021
+Total Threads: 24
+(Reader thread 0) threadID: 3759318784	Created at: 07/05/15 09.57.34.021
+(Reader thread 1) threadID: 3750926080	Created at: 07/05/15 09.57.34.021
+(Reader thread 0) threadID: 3759318784	Begins reading "normal.in" at: 07/05/15 09.57.34.021
+(Reader thread 3) threadID: 3742533376	Created at: 07/05/15 09.57.34.021
+(Reader thread 1) threadID: 3750926080	Begins reading "normal.in" at: 07/05/15 09.57.34.021
+(Reader thread 2) threadID: 3608315648	Created at: 07/05/15 09.57.34.021
+(Reader thread 3) threadID: 3742533376	Begins reading "normal.in" at: 07/05/15 09.57.34.022
+(Reader thread 2) threadID: 3608315648	Begins reading "normal.in" at: 07/05/15 09.57.34.026
+(Writer thread 4) threadID: 3734140672	Created at: 07/05/15 09.57.34.026
+(Writer thread 4) threadID: 3734140672	Begins writing "normal.in" at: 07/05/15 09.57.34.034
+(Writer thread 5) threadID: 3725747968	Created at: 07/05/15 09.57.34.039
+(Writer thread 4) threadID: 3734140672	Ends   writing "normal.in" at: 07/05/15 09.57.34.040
+(Writer thread 5) threadID: 3725747968	Begins writing "normal.in" at: 07/05/15 09.57.34.043
+(Writer thread 5) threadID: 3725747968	Ends   writing "normal.in" at: 07/05/15 09.57.34.046
+(Reader thread 19) threadID: 3187652352	Created at: 07/05/15 09.57.34.050
+(Reader thread 7) threadID: 3708962560	Created at: 07/05/15 09.57.34.051
+(Reader thread 9) threadID: 3623876352	Created at: 07/05/15 09.57.34.055
+(Reader thread 23) threadID: 3154081536	Created at: 07/05/15 09.57.34.055
+(Reader thread 17) threadID: 3204437760	Created at: 07/05/15 09.57.34.055
+(Reader thread 11) threadID: 3591530240	Created at: 07/05/15 09.57.34.055
+(Reader thread 22) threadID: 3162474240	Created at: 07/05/15 09.57.34.055
+(Reader thread 14) threadID: 3566352128	Created at: 07/05/15 09.57.34.055
+(Reader thread 20) threadID: 3179259648	Created at: 07/05/15 09.57.34.055
+(Reader thread 16) threadID: 3212830464	Created at: 07/05/15 09.57.34.055
+(Reader thread 18) threadID: 3196045056	Created at: 07/05/15 09.57.34.055
+(Reader thread 13) threadID: 3574744832	Created at: 07/05/15 09.57.34.055
+(Reader thread 12) threadID: 3583137536	Created at: 07/05/15 09.57.34.055
+(Reader thread 21) threadID: 3170866944	Created at: 07/05/15 09.57.34.055
+(Writer thread 15) threadID: 3221223168	Created at: 07/05/15 09.57.34.055
+(Reader thread 8) threadID: 3700569856	Created at: 07/05/15 09.57.34.055
+(Writer thread 10) threadID: 3599922944	Created at: 07/05/15 09.57.34.055
+(Reader thread 17) threadID: 3204437760	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 20) threadID: 3179259648	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 14) threadID: 3566352128	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 22) threadID: 3162474240	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 16) threadID: 3212830464	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 18) threadID: 3196045056	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 23) threadID: 3154081536	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 11) threadID: 3591530240	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 13) threadID: 3574744832	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 12) threadID: 3583137536	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 21) threadID: 3170866944	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Writer thread 15) threadID: 3221223168	Begins writing "normal.in" at: 07/05/15 09.57.34.055
+(Writer thread 10) threadID: 3599922944	Begins writing "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 9) threadID: 3623876352	Begins reading "normal.in" at: 07/05/15 09.57.34.055
+(Reader thread 8) threadID: 3700569856	Begins reading "normal.in" at: 07/05/15 09.57.34.081
+(Writer thread 15) threadID: 3221223168	Ends   writing "normal.in" at: 07/05/15 09.57.34.106
+(Writer thread 10) threadID: 3599922944	Ends   writing "normal.in" at: 07/05/15 09.57.34.107
+(Reader thread 7) threadID: 3708962560	Begins reading "normal.in" at: 07/05/15 09.57.34.107
+(Reader thread 19) threadID: 3187652352	Begins reading "normal.in" at: 07/05/15 09.57.34.110
+(Writer thread 6) threadID: 3717355264	Created at: 07/05/15 09.57.34.114
+(Writer thread 6) threadID: 3717355264	Begins writing "normal.in" at: 07/05/15 09.57.34.114
+(Writer thread 6) threadID: 3717355264	Ends   writing "normal.in" at: 07/05/15 09.57.34.115
+(Reader thread 3) threadID: 3742533376	Ends   reading "normal.in" at: 07/05/15 09.57.42.851
+(Reader thread 1) threadID: 3750926080	Ends   reading "normal.in" at: 07/05/15 09.57.42.862
+(Reader thread 2) threadID: 3608315648	Ends   reading "normal.in" at: 07/05/15 09.57.42.896
+(Reader thread 19) threadID: 3187652352	Ends   reading "normal.in" at: 07/05/15 09.57.42.915
+(Reader thread 17) threadID: 3204437760	Ends   reading "normal.in" at: 07/05/15 09.57.43.098
+(Reader thread 9) threadID: 3623876352	Ends   reading "normal.in" at: 07/05/15 09.57.43.130
+(Reader thread 0) threadID: 3759318784	Ends   reading "normal.in" at: 07/05/15 09.57.43.130
+(Reader thread 7) threadID: 3708962560	Ends   reading "normal.in" at: 07/05/15 09.57.43.131
+(Reader thread 20) threadID: 3179259648	Ends   reading "normal.in" at: 07/05/15 09.57.43.131
+(Reader thread 8) threadID: 3700569856	Ends   reading "normal.in" at: 07/05/15 09.57.43.146
+(Reader thread 14) threadID: 3566352128	Ends   reading "normal.in" at: 07/05/15 09.57.43.202
+(Reader thread 11) threadID: 3591530240	Ends   reading "normal.in" at: 07/05/15 09.57.43.287
+(Reader thread 13) threadID: 3574744832	Ends   reading "normal.in" at: 07/05/15 09.57.43.310
+(Reader thread 23) threadID: 3154081536	Ends   reading "normal.in" at: 07/05/15 09.57.43.318
+(Reader thread 22) threadID: 3162474240	Ends   reading "normal.in" at: 07/05/15 09.57.43.318
+(Reader thread 21) threadID: 3170866944	Ends   reading "normal.in" at: 07/05/15 09.57.43.321
+(Reader thread 16) threadID: 3212830464	Ends   reading "normal.in" at: 07/05/15 09.57.43.336
+(Reader thread 18) threadID: 3196045056	Ends   reading "normal.in" at: 07/05/15 09.57.43.341
+(Reader thread 12) threadID: 3583137536	Ends   reading "normal.in" at: 07/05/15 09.57.43.347
+
+Normal() test run end on 07/05/15 09.57.43.347
+
+
+Normal() test run started on 07/05/15 10.14.35.860
+Total Threads: 48
+(Reader thread 1) threadID: 4159043328	Created at: 07/05/15 10.14.35.861
+(Reader thread 0) threadID: 4167436032	Created at: 07/05/15 10.14.35.891
+(Reader thread 2) threadID: 4150650624	Created at: 07/05/15 10.14.35.891
+(Reader thread 1) threadID: 4159043328	Begins reading "normal.in" at: 07/05/15 10.14.35.891
+(Reader thread 0) threadID: 4167436032	Begins reading "normal.in" at: 07/05/15 10.14.35.891
+(Reader thread 3) threadID: 4026529536	Created at: 07/05/15 10.14.35.891
+(Reader thread 3) threadID: 4026529536	Begins reading "normal.in" at: 07/05/15 10.14.35.892
+(Reader thread 2) threadID: 4150650624	Begins reading "normal.in" at: 07/05/15 10.14.35.892
+(Reader thread 4) threadID: 4142257920	Created at: 07/05/15 10.14.35.954
+(Writer thread 12) threadID: 3992958720	Created at: 07/05/15 10.14.35.959
+(Writer thread 7) threadID: 4117079808	Created at: 07/05/15 10.14.35.959
+(Writer thread 8) threadID: 4108687104	Created at: 07/05/15 10.14.35.959
+(Reader thread 13) threadID: 3984566016	Created at: 07/05/15 10.14.35.959
+(Reader thread 10) threadID: 4009744128	Created at: 07/05/15 10.14.35.959
+(Reader thread 11) threadID: 4001351424	Created at: 07/05/15 10.14.35.959
+(Writer thread 6) threadID: 4125472512	Created at: 07/05/15 10.14.35.959
+(Reader thread 9) threadID: 4018136832	Created at: 07/05/15 10.14.35.959
+(Writer thread 12) threadID: 3992958720	Begins writing "normal.in" at: 07/05/15 10.14.35.959
+(Writer thread 8) threadID: 4108687104	Begins writing "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 14) threadID: 3976173312	Created at: 07/05/15 10.14.35.959
+(Reader thread 5) threadID: 4133865216	Created at: 07/05/15 10.14.35.959
+(Reader thread 10) threadID: 4009744128	Begins reading "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 11) threadID: 4001351424	Begins reading "normal.in" at: 07/05/15 10.14.35.959
+(Writer thread 6) threadID: 4125472512	Begins writing "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 13) threadID: 3984566016	Begins reading "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 9) threadID: 4018136832	Begins reading "normal.in" at: 07/05/15 10.14.35.959
+(Writer thread 7) threadID: 4117079808	Begins writing "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 4) threadID: 4142257920	Begins reading "normal.in" at: 07/05/15 10.14.35.959
+(Reader thread 14) threadID: 3976173312	Begins reading "normal.in" at: 07/05/15 10.14.35.960
+(Reader thread 5) threadID: 4133865216	Begins reading "normal.in" at: 07/05/15 10.14.35.960
+(Writer thread 8) threadID: 4108687104	Ends   writing "normal.in" at: 07/05/15 10.14.35.970
+(Writer thread 6) threadID: 4125472512	Ends   writing "normal.in" at: 07/05/15 10.14.35.979
+(Writer thread 7) threadID: 4117079808	Ends   writing "normal.in" at: 07/05/15 10.14.35.979
+(Writer thread 12) threadID: 3992958720	Ends   writing "normal.in" at: 07/05/15 10.14.35.979
+(Reader thread 30) threadID: 3279939328	Created at: 07/05/15 10.14.36.048
+(Reader thread 31) threadID: 3271546624	Created at: 07/05/15 10.14.36.048
+(Reader thread 32) threadID: 3263153920	Created at: 07/05/15 10.14.36.048
+(Reader thread 33) threadID: 3254761216	Created at: 07/05/15 10.14.36.048
+(Reader thread 34) threadID: 3246368512	Created at: 07/05/15 10.14.36.048
+(Reader thread 35) threadID: 3237975808	Created at: 07/05/15 10.14.36.048
+(Reader thread 22) threadID: 3422549760	Created at: 07/05/15 10.14.36.048
+(Reader thread 28) threadID: 3372193536	Created at: 07/05/15 10.14.36.048
+(Reader thread 26) threadID: 3388978944	Created at: 07/05/15 10.14.36.048
+(Writer thread 25) threadID: 3397371648	Created at: 07/05/15 10.14.36.048
+(Writer thread 24) threadID: 3405764352	Created at: 07/05/15 10.14.36.048
+(Reader thread 27) threadID: 3380586240	Created at: 07/05/15 10.14.36.048
+(Writer thread 23) threadID: 3414157056	Created at: 07/05/15 10.14.36.048
+(Reader thread 21) threadID: 3707737856	Created at: 07/05/15 10.14.36.048
+(Reader thread 19) threadID: 3724523264	Created at: 07/05/15 10.14.36.049
+(Reader thread 20) threadID: 3716130560	Created at: 07/05/15 10.14.36.049
+(Reader thread 17) threadID: 3741308672	Created at: 07/05/15 10.14.36.049
+(Reader thread 18) threadID: 3732915968	Created at: 07/05/15 10.14.36.049
+(Writer thread 16) threadID: 3749701376	Created at: 07/05/15 10.14.36.049
+(Reader thread 15) threadID: 3758094080	Created at: 07/05/15 10.14.36.049
+(Reader thread 29) threadID: 3288332032	Created at: 07/05/15 10.14.36.049
+(Reader thread 31) threadID: 3271546624	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 32) threadID: 3263153920	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 33) threadID: 3254761216	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 30) threadID: 3279939328	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 34) threadID: 3246368512	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 15) threadID: 3758094080	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 27) threadID: 3380586240	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 28) threadID: 3372193536	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Writer thread 24) threadID: 3405764352	Begins writing "normal.in" at: 07/05/15 10.14.36.049
+(Writer thread 25) threadID: 3397371648	Begins writing "normal.in" at: 07/05/15 10.14.36.049
+(Writer thread 23) threadID: 3414157056	Begins writing "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 26) threadID: 3388978944	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 20) threadID: 3716130560	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 22) threadID: 3422549760	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 21) threadID: 3707737856	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 17) threadID: 3741308672	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 18) threadID: 3732915968	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 19) threadID: 3724523264	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 29) threadID: 3288332032	Begins reading "normal.in" at: 07/05/15 10.14.36.049
+(Reader thread 35) threadID: 3237975808	Begins reading "normal.in" at: 07/05/15 10.14.36.050
+(Writer thread 16) threadID: 3749701376	Begins writing "normal.in" at: 07/05/15 10.14.36.063
+(Writer thread 24) threadID: 3405764352	Ends   writing "normal.in" at: 07/05/15 10.14.36.107
+(Writer thread 25) threadID: 3397371648	Ends   writing "normal.in" at: 07/05/15 10.14.36.107
+(Writer thread 23) threadID: 3414157056	Ends   writing "normal.in" at: 07/05/15 10.14.36.107
+(Writer thread 16) threadID: 3749701376	Ends   writing "normal.in" at: 07/05/15 10.14.36.107
+(Writer thread 39) threadID: 3128936192	Created at: 07/05/15 10.14.36.129
+(Reader thread 41) threadID: 3112150784	Created at: 07/05/15 10.14.36.129
+(Reader thread 42) threadID: 3103758080	Created at: 07/05/15 10.14.36.129
+(Reader thread 40) threadID: 3120543488	Created at: 07/05/15 10.14.36.129
+(Reader thread 40) threadID: 3120543488	Begins reading "normal.in" at: 07/05/15 10.14.36.129
+(Reader thread 36) threadID: 3154114304	Created at: 07/05/15 10.14.36.131
+(Reader thread 36) threadID: 3154114304	Begins reading "normal.in" at: 07/05/15 10.14.36.131
+(Writer thread 37) threadID: 3145721600	Created at: 07/05/15 10.14.36.135
+(Writer thread 37) threadID: 3145721600	Begins writing "normal.in" at: 07/05/15 10.14.36.135
+(Writer thread 37) threadID: 3145721600	Ends   writing "normal.in" at: 07/05/15 10.14.36.135
+(Reader thread 38) threadID: 3137328896	Created at: 07/05/15 10.14.36.135
+(Reader thread 38) threadID: 3137328896	Begins reading "normal.in" at: 07/05/15 10.14.36.135
+(Reader thread 44) threadID: 3011503872	Created at: 07/05/15 10.14.36.139
+(Reader thread 44) threadID: 3011503872	Begins reading "normal.in" at: 07/05/15 10.14.36.139
+(Reader thread 42) threadID: 3103758080	Begins reading "normal.in" at: 07/05/15 10.14.36.140
+(Reader thread 41) threadID: 3112150784	Begins reading "normal.in" at: 07/05/15 10.14.36.143
+(Writer thread 39) threadID: 3128936192	Begins writing "normal.in" at: 07/05/15 10.14.36.147
+(Writer thread 39) threadID: 3128936192	Ends   writing "normal.in" at: 07/05/15 10.14.36.147
+(Reader thread 45) threadID: 3003111168	Created at: 07/05/15 10.14.36.151
+(Reader thread 45) threadID: 3003111168	Begins reading "normal.in" at: 07/05/15 10.14.36.151
+(Writer thread 46) threadID: 2994718464	Created at: 07/05/15 10.14.36.154
+(Writer thread 46) threadID: 2994718464	Begins writing "normal.in" at: 07/05/15 10.14.36.155
+(Reader thread 43) threadID: 3019896576	Created at: 07/05/15 10.14.36.167
+(Reader thread 47) threadID: 2986325760	Created at: 07/05/15 10.14.36.167
+(Writer thread 46) threadID: 2994718464	Ends   writing "normal.in" at: 07/05/15 10.14.36.175
+(Reader thread 43) threadID: 3019896576	Begins reading "normal.in" at: 07/05/15 10.14.36.175
+(Reader thread 47) threadID: 2986325760	Begins reading "normal.in" at: 07/05/15 10.14.36.175
+(Reader thread 1) threadID: 4159043328	Ends   reading "normal.in" at: 07/05/15 10.14.49.154
+(Reader thread 11) threadID: 4001351424	Ends   reading "normal.in" at: 07/05/15 10.14.50.382
+(Reader thread 4) threadID: 4142257920	Ends   reading "normal.in" at: 07/05/15 10.14.50.391
+(Reader thread 0) threadID: 4167436032	Ends   reading "normal.in" at: 07/05/15 10.14.50.392
+(Reader thread 32) threadID: 3263153920	Ends   reading "normal.in" at: 07/05/15 10.14.50.407
+(Reader thread 35) threadID: 3237975808	Ends   reading "normal.in" at: 07/05/15 10.14.50.415
+(Reader thread 2) threadID: 4150650624	Ends   reading "normal.in" at: 07/05/15 10.14.50.454
+(Reader thread 47) threadID: 2986325760	Ends   reading "normal.in" at: 07/05/15 10.14.50.500
+(Reader thread 26) threadID: 3388978944	Ends   reading "normal.in" at: 07/05/15 10.14.50.504
+(Reader thread 33) threadID: 3254761216	Ends   reading "normal.in" at: 07/05/15 10.14.50.590
+(Reader thread 17) threadID: 3741308672	Ends   reading "normal.in" at: 07/05/15 10.14.50.590
+(Reader thread 15) threadID: 3758094080	Ends   reading "normal.in" at: 07/05/15 10.14.50.590
+(Reader thread 31) threadID: 3271546624	Ends   reading "normal.in" at: 07/05/15 10.14.50.590
+(Reader thread 18) threadID: 3732915968	Ends   reading "normal.in" at: 07/05/15 10.14.50.598
+(Reader thread 10) threadID: 4009744128	Ends   reading "normal.in" at: 07/05/15 10.14.50.598
+(Reader thread 29) threadID: 3288332032	Ends   reading "normal.in" at: 07/05/15 10.14.50.610
+(Reader thread 5) threadID: 4133865216	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 19) threadID: 3724523264	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 36) threadID: 3154114304	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 14) threadID: 3976173312	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 27) threadID: 3380586240	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 21) threadID: 3707737856	Ends   reading "normal.in" at: 07/05/15 10.14.50.630
+(Reader thread 28) threadID: 3372193536	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 34) threadID: 3246368512	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 30) threadID: 3279939328	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 42) threadID: 3103758080	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 9) threadID: 4018136832	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 3) threadID: 4026529536	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 13) threadID: 3984566016	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 45) threadID: 3003111168	Ends   reading "normal.in" at: 07/05/15 10.14.50.631
+(Reader thread 44) threadID: 3011503872	Ends   reading "normal.in" at: 07/05/15 10.14.50.632
+(Reader thread 41) threadID: 3112150784	Ends   reading "normal.in" at: 07/05/15 10.14.50.642
+(Reader thread 38) threadID: 3137328896	Ends   reading "normal.in" at: 07/05/15 10.14.50.643
+(Reader thread 22) threadID: 3422549760	Ends   reading "normal.in" at: 07/05/15 10.14.50.646
+(Reader thread 40) threadID: 3120543488	Ends   reading "normal.in" at: 07/05/15 10.14.50.652
+(Reader thread 20) threadID: 3716130560	Ends   reading "normal.in" at: 07/05/15 10.14.50.653
+(Reader thread 43) threadID: 3019896576	Ends   reading "normal.in" at: 07/05/15 10.14.50.654
+
+Normal() test run end on 07/05/15 10.14.50.655
+
+
+Normal() test run started on 07/05/15 10.17.20.582
+Total Threads: 87
+(Reader thread 0) threadID: 3925563136	Created at: 07/05/15 10.17.20.582
+(Writer thread 3) threadID: 3900385024	Created at: 07/05/15 10.17.20.582
+(Reader thread 1) threadID: 3917170432	Created at: 07/05/15 10.17.20.582
+(Reader thread 4) threadID: 3891992320	Created at: 07/05/15 10.17.20.582
+(Writer thread 3) threadID: 3900385024	Begins writing "normal.in" at: 07/05/15 10.17.20.582
+(Reader thread 4) threadID: 3891992320	Begins reading "normal.in" at: 07/05/15 10.17.20.582
+(Reader thread 5) threadID: 3749381888	Created at: 07/05/15 10.17.20.582
+(Reader thread 1) threadID: 3917170432	Begins reading "normal.in" at: 07/05/15 10.17.20.582
+(Reader thread 0) threadID: 3925563136	Begins reading "normal.in" at: 07/05/15 10.17.20.582
+(Reader thread 2) threadID: 3908777728	Created at: 07/05/15 10.17.20.583
+(Reader thread 5) threadID: 3749381888	Begins reading "normal.in" at: 07/05/15 10.17.20.583
+(Reader thread 2) threadID: 3908777728	Begins reading "normal.in" at: 07/05/15 10.17.20.583
+(Writer thread 3) threadID: 3900385024	Ends   writing "normal.in" at: 07/05/15 10.17.20.583
+(Reader thread 6) threadID: 3883599616	Created at: 07/05/15 10.17.20.595
+(Reader thread 6) threadID: 3883599616	Begins reading "normal.in" at: 07/05/15 10.17.20.611
+(Reader thread 7) threadID: 3875206912	Created at: 07/05/15 10.17.20.631
+(Writer thread 30) threadID: 3313477376	Created at: 07/05/15 10.17.20.631
+(Reader thread 31) threadID: 3305084672	Created at: 07/05/15 10.17.20.631
+(Reader thread 22) threadID: 3456087808	Created at: 07/05/15 10.17.20.631
+(Reader thread 28) threadID: 3330262784	Created at: 07/05/15 10.17.20.631
+(Reader thread 23) threadID: 3447695104	Created at: 07/05/15 10.17.20.631
+(Reader thread 9) threadID: 3858421504	Created at: 07/05/15 10.17.20.631
+(Writer thread 8) threadID: 3866814208	Created at: 07/05/15 10.17.20.631
+(Reader thread 18) threadID: 3489658624	Created at: 07/05/15 10.17.20.631
+(Reader thread 17) threadID: 3707418368	Created at: 07/05/15 10.17.20.631
+(Writer thread 16) threadID: 3715811072	Created at: 07/05/15 10.17.20.631
+(Reader thread 15) threadID: 3724203776	Created at: 07/05/15 10.17.20.631
+(Writer thread 14) threadID: 3732596480	Created at: 07/05/15 10.17.20.631
+(Reader thread 13) threadID: 3740989184	Created at: 07/05/15 10.17.20.631
+(Reader thread 36) threadID: 3053434624	Created at: 07/05/15 10.17.20.631
+(Reader thread 35) threadID: 3061827328	Created at: 07/05/15 10.17.20.631
+(Reader thread 34) threadID: 3070220032	Created at: 07/05/15 10.17.20.631
+(Writer thread 29) threadID: 3321870080	Created at: 07/05/15 10.17.20.631
+(Reader thread 33) threadID: 3078612736	Created at: 07/05/15 10.17.20.631
+(Writer thread 32) threadID: 3087005440	Created at: 07/05/15 10.17.20.632
+(Reader thread 7) threadID: 3875206912	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 12) threadID: 3758094080	Created at: 07/05/15 10.17.20.632
+(Reader thread 11) threadID: 3841636096	Created at: 07/05/15 10.17.20.632
+(Writer thread 19) threadID: 3481265920	Created at: 07/05/15 10.17.20.632
+(Writer thread 10) threadID: 3850028800	Created at: 07/05/15 10.17.20.632
+(Reader thread 20) threadID: 3472873216	Created at: 07/05/15 10.17.20.632
+(Reader thread 26) threadID: 3347048192	Created at: 07/05/15 10.17.20.632
+(Reader thread 21) threadID: 3464480512	Created at: 07/05/15 10.17.20.632
+(Reader thread 27) threadID: 3338655488	Created at: 07/05/15 10.17.20.632
+(Reader thread 24) threadID: 3439302400	Created at: 07/05/15 10.17.20.632
+(Reader thread 28) threadID: 3330262784	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 22) threadID: 3456087808	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 31) threadID: 3305084672	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 23) threadID: 3447695104	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 30) threadID: 3313477376	Begins writing "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 29) threadID: 3321870080	Begins writing "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 25) threadID: 3355440896	Created at: 07/05/15 10.17.20.632
+(Reader thread 9) threadID: 3858421504	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 8) threadID: 3866814208	Begins writing "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 16) threadID: 3715811072	Begins writing "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 17) threadID: 3707418368	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 15) threadID: 3724203776	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 18) threadID: 3489658624	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 13) threadID: 3740989184	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 14) threadID: 3732596480	Begins writing "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 37) threadID: 3045041920	Created at: 07/05/15 10.17.20.632
+(Reader thread 35) threadID: 3061827328	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 36) threadID: 3053434624	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Reader thread 33) threadID: 3078612736	Begins reading "normal.in" at: 07/05/15 10.17.20.632
+(Writer thread 32) threadID: 3087005440	Begins writing "normal.in" at: 07/05/15 10.17.20.633
+(Writer thread 10) threadID: 3850028800	Begins writing "normal.in" at: 07/05/15 10.17.20.638
+(Writer thread 19) threadID: 3481265920	Begins writing "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 20) threadID: 3472873216	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 12) threadID: 3758094080	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 21) threadID: 3464480512	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 26) threadID: 3347048192	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 27) threadID: 3338655488	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 11) threadID: 3841636096	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 24) threadID: 3439302400	Begins reading "normal.in" at: 07/05/15 10.17.20.638
+(Reader thread 25) threadID: 3355440896	Begins reading "normal.in" at: 07/05/15 10.17.20.651
+(Reader thread 34) threadID: 3070220032	Begins reading "normal.in" at: 07/05/15 10.17.20.658
+(Reader thread 37) threadID: 3045041920	Begins reading "normal.in" at: 07/05/15 10.17.20.658
+(Reader thread 38) threadID: 3036649216	Created at: 07/05/15 10.17.20.670
+(Writer thread 14) threadID: 3732596480	Ends   writing "normal.in" at: 07/05/15 10.17.20.676
+(Writer thread 30) threadID: 3313477376	Ends   writing "normal.in" at: 07/05/15 10.17.20.691
+(Writer thread 29) threadID: 3321870080	Ends   writing "normal.in" at: 07/05/15 10.17.20.691
+(Writer thread 8) threadID: 3866814208	Ends   writing "normal.in" at: 07/05/15 10.17.20.694
+(Writer thread 32) threadID: 3087005440	Ends   writing "normal.in" at: 07/05/15 10.17.20.719
+(Reader thread 38) threadID: 3036649216	Begins reading "normal.in" at: 07/05/15 10.17.20.722
+(Reader thread 39) threadID: 2952787712	Created at: 07/05/15 10.17.20.723
+(Writer thread 19) threadID: 3481265920	Ends   writing "normal.in" at: 07/05/15 10.17.20.723
+(Writer thread 10) threadID: 3850028800	Ends   writing "normal.in" at: 07/05/15 10.17.20.723
+(Reader thread 39) threadID: 2952787712	Begins reading "normal.in" at: 07/05/15 10.17.20.730
+(Writer thread 16) threadID: 3715811072	Ends   writing "normal.in" at: 07/05/15 10.17.20.735
+(Reader thread 40) threadID: 2944395008	Created at: 07/05/15 10.17.20.747
+(Reader thread 40) threadID: 2944395008	Begins reading "normal.in" at: 07/05/15 10.17.20.750
+(Reader thread 54) threadID: 2675959552	Created at: 07/05/15 10.17.20.767
+(Reader thread 41) threadID: 2936002304	Created at: 07/05/15 10.17.20.769
+(Reader thread 41) threadID: 2936002304	Begins reading "normal.in" at: 07/05/15 10.17.20.769
+(Reader thread 54) threadID: 2675959552	Begins reading "normal.in" at: 07/05/15 10.17.20.769
+(Reader thread 83) threadID: 2130695936	Created at: 07/05/15 10.17.20.770
+(Reader thread 55) threadID: 2667566848	Created at: 07/05/15 10.17.20.775
+(Reader thread 78) threadID: 2248128256	Created at: 07/05/15 10.17.20.775
+(Reader thread 81) threadID: 2147481344	Created at: 07/05/15 10.17.20.775
+(Writer thread 80) threadID: 2231342848	Created at: 07/05/15 10.17.20.775
+(Writer thread 72) threadID: 2373953280	Created at: 07/05/15 10.17.20.775
+(Writer thread 64) threadID: 2516563712	Created at: 07/05/15 10.17.20.775
+(Writer thread 79) threadID: 2239735552	Created at: 07/05/15 10.17.20.775
+(Reader thread 63) threadID: 2524956416	Created at: 07/05/15 10.17.20.775
+(Writer thread 68) threadID: 2407524096	Created at: 07/05/15 10.17.20.775
+(Reader thread 66) threadID: 2499778304	Created at: 07/05/15 10.17.20.775
+(Reader thread 65) threadID: 2508171008	Created at: 07/05/15 10.17.20.775
+(Reader thread 67) threadID: 2415916800	Created at: 07/05/15 10.17.20.775
+(Writer thread 69) threadID: 2399131392	Created at: 07/05/15 10.17.20.775
+(Reader thread 71) threadID: 2382345984	Created at: 07/05/15 10.17.20.775
+(Reader thread 62) threadID: 2533349120	Created at: 07/05/15 10.17.20.775
+(Reader thread 70) threadID: 2390738688	Created at: 07/05/15 10.17.20.775
+(Reader thread 77) threadID: 2256520960	Created at: 07/05/15 10.17.20.775
+(Writer thread 61) threadID: 2541741824	Created at: 07/05/15 10.17.20.775
+(Writer thread 57) threadID: 2650781440	Created at: 07/05/15 10.17.20.775
+(Reader thread 58) threadID: 2642388736	Created at: 07/05/15 10.17.20.775
+(Reader thread 43) threadID: 2919216896	Created at: 07/05/15 10.17.20.775
+(Reader thread 86) threadID: 2105517824	Created at: 07/05/15 10.17.20.775
+(Reader thread 53) threadID: 2684352256	Created at: 07/05/15 10.17.20.775
+(Reader thread 45) threadID: 2902431488	Created at: 07/05/15 10.17.20.775
+(Reader thread 48) threadID: 2801784576	Created at: 07/05/15 10.17.20.775
+(Reader thread 50) threadID: 2784999168	Created at: 07/05/15 10.17.20.775
+(Reader thread 51) threadID: 2776606464	Created at: 07/05/15 10.17.20.775
+(Reader thread 47) threadID: 2810177280	Created at: 07/05/15 10.17.20.775
+(Reader thread 49) threadID: 2793391872	Created at: 07/05/15 10.17.20.775
+(Reader thread 52) threadID: 2768213760	Created at: 07/05/15 10.17.20.775
+(Reader thread 44) threadID: 2910824192	Created at: 07/05/15 10.17.20.775
+(Reader thread 42) threadID: 2927609600	Created at: 07/05/15 10.17.20.775
+(Reader thread 83) threadID: 2130695936	Begins reading "normal.in" at: 07/05/15 10.17.20.775
+(Reader thread 75) threadID: 2273306368	Created at: 07/05/15 10.17.20.776
+(Writer thread 73) threadID: 2365560576	Created at: 07/05/15 10.17.20.776
+(Writer thread 59) threadID: 2633996032	Created at: 07/05/15 10.17.20.776
+(Reader thread 56) threadID: 2659174144	Created at: 07/05/15 10.17.20.776
+(Writer thread 60) threadID: 2550134528	Created at: 07/05/15 10.17.20.776
+(Reader thread 74) threadID: 2281699072	Created at: 07/05/15 10.17.20.776
+(Reader thread 76) threadID: 2264913664	Created at: 07/05/15 10.17.20.776
+(Reader thread 66) threadID: 2499778304	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 70) threadID: 2390738688	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 68) threadID: 2407524096	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 63) threadID: 2524956416	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 67) threadID: 2415916800	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 77) threadID: 2256520960	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 62) threadID: 2533349120	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 79) threadID: 2239735552	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 80) threadID: 2231342848	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 65) threadID: 2508171008	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 81) threadID: 2147481344	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 72) threadID: 2373953280	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 57) threadID: 2650781440	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 61) threadID: 2541741824	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 69) threadID: 2399131392	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 78) threadID: 2248128256	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 64) threadID: 2516563712	Begins writing "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 71) threadID: 2382345984	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 58) threadID: 2642388736	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Writer thread 82) threadID: 2139088640	Created at: 07/05/15 10.17.20.776
+(Reader thread 46) threadID: 2818569984	Created at: 07/05/15 10.17.20.776
+(Reader thread 84) threadID: 2122303232	Created at: 07/05/15 10.17.20.776
+(Reader thread 85) threadID: 2113910528	Created at: 07/05/15 10.17.20.776
+(Reader thread 53) threadID: 2684352256	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 48) threadID: 2801784576	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 47) threadID: 2810177280	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 49) threadID: 2793391872	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 45) threadID: 2902431488	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 44) threadID: 2910824192	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 51) threadID: 2776606464	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 52) threadID: 2768213760	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 86) threadID: 2105517824	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 43) threadID: 2919216896	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 50) threadID: 2784999168	Begins reading "normal.in" at: 07/05/15 10.17.20.776
+(Reader thread 55) threadID: 2667566848	Begins reading "normal.in" at: 07/05/15 10.17.20.778
+(Writer thread 73) threadID: 2365560576	Begins writing "normal.in" at: 07/05/15 10.17.20.780
+(Writer thread 59) threadID: 2633996032	Begins writing "normal.in" at: 07/05/15 10.17.20.780
+(Reader thread 74) threadID: 2281699072	Begins reading "normal.in" at: 07/05/15 10.17.20.780
+(Reader thread 76) threadID: 2264913664	Begins reading "normal.in" at: 07/05/15 10.17.20.780
+(Writer thread 60) threadID: 2550134528	Begins writing "normal.in" at: 07/05/15 10.17.20.780
+(Reader thread 56) threadID: 2659174144	Begins reading "normal.in" at: 07/05/15 10.17.20.780
+(Reader thread 75) threadID: 2273306368	Begins reading "normal.in" at: 07/05/15 10.17.20.780
+(Writer thread 82) threadID: 2139088640	Begins writing "normal.in" at: 07/05/15 10.17.20.819
+(Reader thread 84) threadID: 2122303232	Begins reading "normal.in" at: 07/05/15 10.17.20.819
+(Reader thread 46) threadID: 2818569984	Begins reading "normal.in" at: 07/05/15 10.17.20.819
+(Reader thread 85) threadID: 2113910528	Begins reading "normal.in" at: 07/05/15 10.17.20.819
+(Reader thread 42) threadID: 2927609600	Begins reading "normal.in" at: 07/05/15 10.17.20.819
+(Writer thread 69) threadID: 2399131392	Ends   writing "normal.in" at: 07/05/15 10.17.20.895
+(Writer thread 72) threadID: 2373953280	Ends   writing "normal.in" at: 07/05/15 10.17.20.899
+(Writer thread 64) threadID: 2516563712	Ends   writing "normal.in" at: 07/05/15 10.17.20.899
+(Writer thread 80) threadID: 2231342848	Ends   writing "normal.in" at: 07/05/15 10.17.20.899
+(Writer thread 57) threadID: 2650781440	Ends   writing "normal.in" at: 07/05/15 10.17.20.899
+(Writer thread 79) threadID: 2239735552	Ends   writing "normal.in" at: 07/05/15 10.17.20.899
+(Writer thread 61) threadID: 2541741824	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Writer thread 68) threadID: 2407524096	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Writer thread 60) threadID: 2550134528	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Writer thread 73) threadID: 2365560576	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Writer thread 59) threadID: 2633996032	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Writer thread 82) threadID: 2139088640	Ends   writing "normal.in" at: 07/05/15 10.17.20.903
+(Reader thread 5) threadID: 3749381888	Ends   reading "normal.in" at: 07/05/15 10.17.44.333
+(Reader thread 25) threadID: 3355440896	Ends   reading "normal.in" at: 07/05/15 10.17.44.374
+(Reader thread 6) threadID: 3883599616	Ends   reading "normal.in" at: 07/05/15 10.17.44.548
+(Reader thread 27) threadID: 3338655488	Ends   reading "normal.in" at: 07/05/15 10.17.44.569
+(Reader thread 4) threadID: 3891992320	Ends   reading "normal.in" at: 07/05/15 10.17.44.574
+(Reader thread 26) threadID: 3347048192	Ends   reading "normal.in" at: 07/05/15 10.17.44.676
+(Reader thread 34) threadID: 3070220032	Ends   reading "normal.in" at: 07/05/15 10.17.44.718
+(Reader thread 22) threadID: 3456087808	Ends   reading "normal.in" at: 07/05/15 10.17.44.721
+(Reader thread 38) threadID: 3036649216	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 1) threadID: 3917170432	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 36) threadID: 3053434624	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 7) threadID: 3875206912	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 9) threadID: 3858421504	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 71) threadID: 2382345984	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 35) threadID: 3061827328	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 2) threadID: 3908777728	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 13) threadID: 3740989184	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 12) threadID: 3758094080	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 11) threadID: 3841636096	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 23) threadID: 3447695104	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 21) threadID: 3464480512	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 28) threadID: 3330262784	Ends   reading "normal.in" at: 07/05/15 10.17.44.911
+(Reader thread 41) threadID: 2936002304	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 67) threadID: 2415916800	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 65) threadID: 2508171008	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 66) threadID: 2499778304	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 37) threadID: 3045041920	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 0) threadID: 3925563136	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 18) threadID: 3489658624	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 31) threadID: 3305084672	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 15) threadID: 3724203776	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 51) threadID: 2776606464	Ends   reading "normal.in" at: 07/05/15 10.17.44.979
+(Reader thread 63) threadID: 2524956416	Ends   reading "normal.in" at: 07/05/15 10.17.44.985
+(Reader thread 40) threadID: 2944395008	Ends   reading "normal.in" at: 07/05/15 10.17.44.985
+(Reader thread 44) threadID: 2910824192	Ends   reading "normal.in" at: 07/05/15 10.17.44.985
+(Reader thread 24) threadID: 3439302400	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 20) threadID: 3472873216	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 54) threadID: 2675959552	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 52) threadID: 2768213760	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 77) threadID: 2256520960	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 84) threadID: 2122303232	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 39) threadID: 2952787712	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 78) threadID: 2248128256	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 53) threadID: 2684352256	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 83) threadID: 2130695936	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 75) threadID: 2273306368	Ends   reading "normal.in" at: 07/05/15 10.17.44.986
+(Reader thread 76) threadID: 2264913664	Ends   reading "normal.in" at: 07/05/15 10.17.44.987
+(Reader thread 45) threadID: 2902431488	Ends   reading "normal.in" at: 07/05/15 10.17.44.999
+(Reader thread 62) threadID: 2533349120	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 55) threadID: 2667566848	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 70) threadID: 2390738688	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 58) threadID: 2642388736	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 81) threadID: 2147481344	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 50) threadID: 2784999168	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 33) threadID: 3078612736	Ends   reading "normal.in" at: 07/05/15 10.17.45.023
+(Reader thread 48) threadID: 2801784576	Ends   reading "normal.in" at: 07/05/15 10.17.45.024
+(Reader thread 74) threadID: 2281699072	Ends   reading "normal.in" at: 07/05/15 10.17.45.024
+(Reader thread 47) threadID: 2810177280	Ends   reading "normal.in" at: 07/05/15 10.17.45.024
+(Reader thread 17) threadID: 3707418368	Ends   reading "normal.in" at: 07/05/15 10.17.45.024
+(Reader thread 86) threadID: 2105517824	Ends   reading "normal.in" at: 07/05/15 10.17.45.024
+(Reader thread 49) threadID: 2793391872	Ends   reading "normal.in" at: 07/05/15 10.17.45.026
+(Reader thread 56) threadID: 2659174144	Ends   reading "normal.in" at: 07/05/15 10.17.45.027
+(Reader thread 46) threadID: 2818569984	Ends   reading "normal.in" at: 07/05/15 10.17.45.028
+(Reader thread 42) threadID: 2927609600	Ends   reading "normal.in" at: 07/05/15 10.17.45.032
+(Reader thread 43) threadID: 2919216896	Ends   reading "normal.in" at: 07/05/15 10.17.45.032
+(Reader thread 85) threadID: 2113910528	Ends   reading "normal.in" at: 07/05/15 10.17.45.034
+
+Normal() test run end on 07/05/15 10.17.45.034
+
+
+Normal() test run started on 07/05/15 10.21.09.440
+Total Threads: 70
+(Reader thread 2) threadID: 1758914304	Created at: 07/05/15 10.21.09.441
+(Writer thread 3) threadID: 1750521600	Created at: 07/05/15 10.21.09.441
+(Reader thread 0) threadID: 1775699712	Created at: 07/05/15 10.21.09.441
+(Writer thread 4) threadID: 1607911168	Created at: 07/05/15 10.21.09.441
+(Reader thread 2) threadID: 1758914304	Begins reading "normal.in" at: 07/05/15 10.21.09.441
+(Reader thread 1) threadID: 1767307008	Created at: 07/05/15 10.21.09.441
+(Reader thread 0) threadID: 1775699712	Begins reading "normal.in" at: 07/05/15 10.21.09.441
+(Writer thread 3) threadID: 1750521600	Begins writing "normal.in" at: 07/05/15 10.21.09.441
+(Writer thread 4) threadID: 1607911168	Begins writing "normal.in" at: 07/05/15 10.21.09.441
+(Reader thread 1) threadID: 1767307008	Begins reading "normal.in" at: 07/05/15 10.21.09.442
+(Writer thread 5) threadID: 1742128896	Created at: 07/05/15 10.21.09.442
+(Writer thread 5) threadID: 1742128896	Begins writing "normal.in" at: 07/05/15 10.21.09.442
+(Reader thread 6) threadID: 1733736192	Created at: 07/05/15 10.21.09.443
+(Reader thread 25) threadID: 1207957248	Created at: 07/05/15 10.21.09.443
+(Writer thread 11) threadID: 1691772672	Created at: 07/05/15 10.21.09.443
+(Reader thread 17) threadID: 1557554944	Created at: 07/05/15 10.21.09.443
+(Reader thread 13) threadID: 1591125760	Created at: 07/05/15 10.21.09.443
+(Reader thread 26) threadID: 1199564544	Created at: 07/05/15 10.21.09.443
+(Reader thread 24) threadID: 1426036480	Created at: 07/05/15 10.21.09.443
+(Reader thread 14) threadID: 1582733056	Created at: 07/05/15 10.21.09.443
+(Reader thread 12) threadID: 1599518464	Created at: 07/05/15 10.21.09.443
+(Reader thread 22) threadID: 1442821888	Created at: 07/05/15 10.21.09.443
+(Writer thread 16) threadID: 1565947648	Created at: 07/05/15 10.21.09.443
+(Writer thread 9) threadID: 1708558080	Created at: 07/05/15 10.21.09.443
+(Reader thread 8) threadID: 1716950784	Created at: 07/05/15 10.21.09.443
+(Reader thread 7) threadID: 1725343488	Created at: 07/05/15 10.21.09.443
+(Reader thread 30) threadID: 1165993728	Created at: 07/05/15 10.21.09.444
+(Reader thread 10) threadID: 1700165376	Created at: 07/05/15 10.21.09.444
+(Reader thread 12) threadID: 1599518464	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 22) threadID: 1442821888	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Writer thread 16) threadID: 1565947648	Begins writing "normal.in" at: 07/05/15 10.21.09.444
+(Writer thread 9) threadID: 1708558080	Begins writing "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 10) threadID: 1700165376	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 7) threadID: 1725343488	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 30) threadID: 1165993728	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 26) threadID: 1199564544	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 28) threadID: 1182779136	Created at: 07/05/15 10.21.09.444
+(Reader thread 25) threadID: 1207957248	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 27) threadID: 1191171840	Created at: 07/05/15 10.21.09.444
+(Reader thread 14) threadID: 1582733056	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 17) threadID: 1557554944	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 21) threadID: 1451214592	Created at: 07/05/15 10.21.09.444
+(Reader thread 21) threadID: 1451214592	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 37) threadID: 973059840	Created at: 07/05/15 10.21.09.445
+(Reader thread 19) threadID: 1468000000	Created at: 07/05/15 10.21.09.444
+(Reader thread 19) threadID: 1468000000	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 37) threadID: 973059840	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 27) threadID: 1191171840	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Reader thread 31) threadID: 1157601024	Created at: 07/05/15 10.21.09.444
+(Reader thread 8) threadID: 1716950784	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 31) threadID: 1157601024	Begins reading "normal.in" at: 07/05/15 10.21.09.446
+(Reader thread 20) threadID: 1459607296	Created at: 07/05/15 10.21.09.444
+(Reader thread 15) threadID: 1574340352	Created at: 07/05/15 10.21.09.444
+(Reader thread 23) threadID: 1434429184	Created at: 07/05/15 10.21.09.444
+(Reader thread 28) threadID: 1182779136	Begins reading "normal.in" at: 07/05/15 10.21.09.445
+(Writer thread 11) threadID: 1691772672	Begins writing "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 32) threadID: 872412928	Created at: 07/05/15 10.21.09.446
+(Reader thread 29) threadID: 1174386432	Created at: 07/05/15 10.21.09.444
+(Reader thread 24) threadID: 1426036480	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Writer thread 41) threadID: 855627520	Created at: 07/05/15 10.21.09.446
+(Reader thread 13) threadID: 1591125760	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 6) threadID: 1733736192	Begins reading "normal.in" at: 07/05/15 10.21.09.444
+(Reader thread 18) threadID: 1476392704	Created at: 07/05/15 10.21.09.444
+(Reader thread 20) threadID: 1459607296	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 29) threadID: 1174386432	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 32) threadID: 872412928	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Writer thread 38) threadID: 964667136	Created at: 07/05/15 10.21.09.447
+(Reader thread 18) threadID: 1476392704	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 23) threadID: 1434429184	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 42) threadID: 847234816	Created at: 07/05/15 10.21.09.447
+(Reader thread 15) threadID: 1574340352	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Writer thread 33) threadID: 1006630656	Created at: 07/05/15 10.21.09.447
+(Reader thread 34) threadID: 998237952	Created at: 07/05/15 10.21.09.447
+(Reader thread 40) threadID: 864020224	Created at: 07/05/15 10.21.09.447
+(Writer thread 35) threadID: 989845248	Created at: 07/05/15 10.21.09.447
+(Reader thread 39) threadID: 956274432	Created at: 07/05/15 10.21.09.447
+(Reader thread 36) threadID: 981452544	Created at: 07/05/15 10.21.09.447
+(Writer thread 38) threadID: 964667136	Begins writing "normal.in" at: 07/05/15 10.21.09.447
+(Writer thread 41) threadID: 855627520	Begins writing "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 36) threadID: 981452544	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 40) threadID: 864020224	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 42) threadID: 847234816	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 39) threadID: 956274432	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Writer thread 33) threadID: 1006630656	Begins writing "normal.in" at: 07/05/15 10.21.09.447
+(Reader thread 34) threadID: 998237952	Begins reading "normal.in" at: 07/05/15 10.21.09.447
+(Writer thread 35) threadID: 989845248	Begins writing "normal.in" at: 07/05/15 10.21.09.448
+(Reader thread 43) threadID: 838842112	Created at: 07/05/15 10.21.09.448
+(Reader thread 43) threadID: 838842112	Begins reading "normal.in" at: 07/05/15 10.21.09.448
+(Reader thread 44) threadID: 830449408	Created at: 07/05/15 10.21.09.448
+(Reader thread 45) threadID: 822056704	Created at: 07/05/15 10.21.09.449
+(Reader thread 44) threadID: 830449408	Begins reading "normal.in" at: 07/05/15 10.21.09.449
+(Reader thread 47) threadID: 729802496	Created at: 07/05/15 10.21.09.449
+(Reader thread 47) threadID: 729802496	Begins reading "normal.in" at: 07/05/15 10.21.09.449
+(Writer thread 53) threadID: 603977472	Created at: 07/05/15 10.21.09.449
+(Reader thread 56) threadID: 578799360	Created at: 07/05/15 10.21.09.449
+(Reader thread 57) threadID: 570406656	Created at: 07/05/15 10.21.09.449
+(Reader thread 54) threadID: 595584768	Created at: 07/05/15 10.21.09.449
+(Reader thread 55) threadID: 587192064	Created at: 07/05/15 10.21.09.449
+(Reader thread 52) threadID: 687838976	Created at: 07/05/15 10.21.09.449
+(Reader thread 45) threadID: 822056704	Begins reading "normal.in" at: 07/05/15 10.21.09.449
+(Writer thread 51) threadID: 696231680	Created at: 07/05/15 10.21.09.450
+(Reader thread 54) threadID: 595584768	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 56) threadID: 578799360	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 52) threadID: 687838976	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Writer thread 53) threadID: 603977472	Begins writing "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 50) threadID: 704624384	Created at: 07/05/15 10.21.09.450
+(Reader thread 57) threadID: 570406656	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 49) threadID: 713017088	Created at: 07/05/15 10.21.09.450
+(Reader thread 49) threadID: 713017088	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Writer thread 58) threadID: 562013952	Created at: 07/05/15 10.21.09.450
+(Reader thread 55) threadID: 587192064	Begins reading "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 48) threadID: 721409792	Created at: 07/05/15 10.21.09.450
+(Writer thread 51) threadID: 696231680	Begins writing "normal.in" at: 07/05/15 10.21.09.450
+(Reader thread 50) threadID: 704624384	Begins reading "normal.in" at: 07/05/15 10.21.09.451
+(Reader thread 59) threadID: 553621248	Created at: 07/05/15 10.21.09.451
+(Writer thread 58) threadID: 562013952	Begins writing "normal.in" at: 07/05/15 10.21.09.452
+(Reader thread 46) threadID: 738195200	Created at: 07/05/15 10.21.09.452
+(Reader thread 48) threadID: 721409792	Begins reading "normal.in" at: 07/05/15 10.21.09.452
+(Reader thread 46) threadID: 738195200	Begins reading "normal.in" at: 07/05/15 10.21.09.452
+(Reader thread 61) threadID: 461367040	Created at: 07/05/15 10.21.09.452
+(Reader thread 61) threadID: 461367040	Begins reading "normal.in" at: 07/05/15 10.21.09.452
+(Reader thread 59) threadID: 553621248	Begins reading "normal.in" at: 07/05/15 10.21.09.453
+(Reader thread 66) threadID: 419403520	Created at: 07/05/15 10.21.09.453
+(Reader thread 65) threadID: 427796224	Created at: 07/05/15 10.21.09.454
+(Reader thread 64) threadID: 436188928	Created at: 07/05/15 10.21.09.454
+(Writer thread 63) threadID: 444581632	Created at: 07/05/15 10.21.09.454
+(Writer thread 60) threadID: 469759744	Created at: 07/05/15 10.21.09.454
+(Reader thread 62) threadID: 452974336	Created at: 07/05/15 10.21.09.454
+(Reader thread 64) threadID: 436188928	Begins reading "normal.in" at: 07/05/15 10.21.09.455
+(Reader thread 65) threadID: 427796224	Begins reading "normal.in" at: 07/05/15 10.21.09.455
+(Reader thread 66) threadID: 419403520	Begins reading "normal.in" at: 07/05/15 10.21.09.455
+(Writer thread 63) threadID: 444581632	Begins writing "normal.in" at: 07/05/15 10.21.09.455
+(Writer thread 60) threadID: 469759744	Begins writing "normal.in" at: 07/05/15 10.21.09.455
+(Reader thread 67) threadID: 335542016	Created at: 07/05/15 10.21.09.455
+(Reader thread 67) threadID: 335542016	Begins reading "normal.in" at: 07/05/15 10.21.09.456
+(Reader thread 62) threadID: 452974336	Begins reading "normal.in" at: 07/05/15 10.21.09.456
+(Reader thread 68) threadID: 327149312	Created at: 07/05/15 10.21.09.457
+(Reader thread 68) threadID: 327149312	Begins reading "normal.in" at: 07/05/15 10.21.09.457
+(Reader thread 69) threadID: 318756608	Created at: 07/05/15 10.21.09.457
+(Reader thread 69) threadID: 318756608	Begins reading "normal.in" at: 07/05/15 10.21.09.457
+(Writer thread 3) threadID: 1750521600	Ends   writing "normal.in" at: 07/05/15 10.21.09.542
+(Writer thread 4) threadID: 1607911168	Ends   writing "normal.in" at: 07/05/15 10.21.09.678
+(Writer thread 5) threadID: 1742128896	Ends   writing "normal.in" at: 07/05/15 10.21.09.678
+(Writer thread 58) threadID: 562013952	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 53) threadID: 603977472	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 33) threadID: 1006630656	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 35) threadID: 989845248	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 41) threadID: 855627520	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 16) threadID: 1565947648	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 11) threadID: 1691772672	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 38) threadID: 964667136	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 9) threadID: 1708558080	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 51) threadID: 696231680	Ends   writing "normal.in" at: 07/05/15 10.21.09.710
+(Writer thread 63) threadID: 444581632	Ends   writing "normal.in" at: 07/05/15 10.21.09.719
+(Writer thread 60) threadID: 469759744	Ends   writing "normal.in" at: 07/05/15 10.21.09.719
+(Reader thread 61) threadID: 461367040	Ends   reading "normal.in" at: 07/05/15 10.21.30.211
+(Reader thread 2) threadID: 1758914304	Ends   reading "normal.in" at: 07/05/15 10.21.30.299
+(Reader thread 55) threadID: 587192064	Ends   reading "normal.in" at: 07/05/15 10.21.30.370
+(Reader thread 62) threadID: 452974336	Ends   reading "normal.in" at: 07/05/15 10.21.30.385
+(Reader thread 0) threadID: 1775699712	Ends   reading "normal.in" at: 07/05/15 10.21.30.387
+(Reader thread 7) threadID: 1725343488	Ends   reading "normal.in" at: 07/05/15 10.21.30.403
+(Reader thread 6) threadID: 1733736192	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 24) threadID: 1426036480	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 32) threadID: 872412928	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 18) threadID: 1476392704	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 19) threadID: 1468000000	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 13) threadID: 1591125760	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 20) threadID: 1459607296	Ends   reading "normal.in" at: 07/05/15 10.21.30.507
+(Reader thread 29) threadID: 1174386432	Ends   reading "normal.in" at: 07/05/15 10.21.30.575
+(Reader thread 30) threadID: 1165993728	Ends   reading "normal.in" at: 07/05/15 10.21.30.575
+(Reader thread 25) threadID: 1207957248	Ends   reading "normal.in" at: 07/05/15 10.21.30.575
+(Reader thread 69) threadID: 318756608	Ends   reading "normal.in" at: 07/05/15 10.21.30.578
+(Reader thread 14) threadID: 1582733056	Ends   reading "normal.in" at: 07/05/15 10.21.30.578
+(Reader thread 28) threadID: 1182779136	Ends   reading "normal.in" at: 07/05/15 10.21.30.591
+(Reader thread 31) threadID: 1157601024	Ends   reading "normal.in" at: 07/05/15 10.21.30.603
+(Reader thread 21) threadID: 1451214592	Ends   reading "normal.in" at: 07/05/15 10.21.30.631
+(Reader thread 27) threadID: 1191171840	Ends   reading "normal.in" at: 07/05/15 10.21.30.706
+(Reader thread 17) threadID: 1557554944	Ends   reading "normal.in" at: 07/05/15 10.21.30.707
+(Reader thread 12) threadID: 1599518464	Ends   reading "normal.in" at: 07/05/15 10.21.30.722
+(Reader thread 54) threadID: 595584768	Ends   reading "normal.in" at: 07/05/15 10.21.30.818
+(Reader thread 57) threadID: 570406656	Ends   reading "normal.in" at: 07/05/15 10.21.30.818
+(Reader thread 37) threadID: 973059840	Ends   reading "normal.in" at: 07/05/15 10.21.30.818
+(Reader thread 39) threadID: 956274432	Ends   reading "normal.in" at: 07/05/15 10.21.30.822
+(Reader thread 56) threadID: 578799360	Ends   reading "normal.in" at: 07/05/15 10.21.30.850
+(Reader thread 1) threadID: 1767307008	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 66) threadID: 419403520	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 64) threadID: 436188928	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 40) threadID: 864020224	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 15) threadID: 1574340352	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 26) threadID: 1199564544	Ends   reading "normal.in" at: 07/05/15 10.21.30.899
+(Reader thread 65) threadID: 427796224	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 45) threadID: 822056704	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 68) threadID: 327149312	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 23) threadID: 1434429184	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 50) threadID: 704624384	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 8) threadID: 1716950784	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 42) threadID: 847234816	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 36) threadID: 981452544	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 47) threadID: 729802496	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 46) threadID: 738195200	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 67) threadID: 335542016	Ends   reading "normal.in" at: 07/05/15 10.21.30.910
+(Reader thread 34) threadID: 998237952	Ends   reading "normal.in" at: 07/05/15 10.21.30.911
+(Reader thread 59) threadID: 553621248	Ends   reading "normal.in" at: 07/05/15 10.21.30.917
+(Reader thread 52) threadID: 687838976	Ends   reading "normal.in" at: 07/05/15 10.21.30.919
+(Reader thread 43) threadID: 838842112	Ends   reading "normal.in" at: 07/05/15 10.21.30.921
+(Reader thread 22) threadID: 1442821888	Ends   reading "normal.in" at: 07/05/15 10.21.30.926
+(Reader thread 49) threadID: 713017088	Ends   reading "normal.in" at: 07/05/15 10.21.30.929
+(Reader thread 10) threadID: 1700165376	Ends   reading "normal.in" at: 07/05/15 10.21.30.939
+(Reader thread 44) threadID: 830449408	Ends   reading "normal.in" at: 07/05/15 10.21.30.940
+(Reader thread 48) threadID: 721409792	Ends   reading "normal.in" at: 07/05/15 10.21.30.953
+
+Normal() test run end on 07/05/15 10.21.30.953
+
+
+Normal() test run started on 07/05/15 10.34.06.880
+Total Threads: 44
+(Reader thread 1) threadID: 649045760	Created at: 07/05/15 10.34.06.881
+(Reader thread 0) threadID: 657438464	Created at: 07/05/15 10.34.06.881
+(Reader thread 1) threadID: 649045760	Begins reading "normal.in" at: 07/05/15 10.34.06.881
+(Writer thread 2) threadID: 640653056	Created at: 07/05/15 10.34.06.881
+(Reader thread 0) threadID: 657438464	Begins reading "normal.in" at: 07/05/15 10.34.06.881
+(Writer thread 3) threadID: 632260352	Created at: 07/05/15 10.34.06.881
+(Writer thread 2) threadID: 640653056	Begins writing "normal.in" at: 07/05/15 10.34.06.881
+(Writer thread 2) threadID: 640653056	Ends   writing "normal.in" at: 07/05/15 10.34.06.883
+(Writer thread 3) threadID: 632260352	Begins writing "normal.in" at: 07/05/15 10.34.06.883
+(Writer thread 3) threadID: 632260352	Ends   writing "normal.in" at: 07/05/15 10.34.06.883
+(Reader thread 43) threadID: 16652032	Created at: 07/05/15 10.34.06.886
+(Reader thread 43) threadID: 16652032	Begins reading "normal.in" at: 07/05/15 10.34.06.886
+(Writer thread 4) threadID: 623867648	Created at: 07/05/15 10.34.06.886
+(Writer thread 4) threadID: 623867648	Begins writing "normal.in" at: 07/05/15 10.34.06.886
+(Writer thread 4) threadID: 623867648	Ends   writing "normal.in" at: 07/05/15 10.34.06.887
+(Reader thread 32) threadID: 108971776	Created at: 07/05/15 10.34.06.890
+(Reader thread 32) threadID: 108971776	Begins reading "normal.in" at: 07/05/15 10.34.06.890
+(Reader thread 34) threadID: 92186368	Created at: 07/05/15 10.34.06.894
+(Reader thread 34) threadID: 92186368	Begins reading "normal.in" at: 07/05/15 10.34.06.894
+(Reader thread 40) threadID: 41830144	Created at: 07/05/15 10.34.06.899
+(Reader thread 40) threadID: 41830144	Begins reading "normal.in" at: 07/05/15 10.34.06.899
+(Reader thread 37) threadID: 67008256	Created at: 07/05/15 10.34.06.902
+(Reader thread 37) threadID: 67008256	Begins reading "normal.in" at: 07/05/15 10.34.06.902
+(Reader thread 16) threadID: 243255040	Created at: 07/05/15 10.34.06.906
+(Reader thread 16) threadID: 243255040	Begins reading "normal.in" at: 07/05/15 10.34.06.906
+(Reader thread 18) threadID: 226469632	Created at: 07/05/15 10.34.06.910
+(Reader thread 18) threadID: 226469632	Begins reading "normal.in" at: 07/05/15 10.34.06.910
+(Reader thread 19) threadID: 218076928	Created at: 07/05/15 10.34.06.915
+(Reader thread 19) threadID: 218076928	Begins reading "normal.in" at: 07/05/15 10.34.06.915
+(Reader thread 21) threadID: 201291520	Created at: 07/05/15 10.34.06.918
+(Reader thread 21) threadID: 201291520	Begins reading "normal.in" at: 07/05/15 10.34.06.919
+(Reader thread 24) threadID: 176113408	Created at: 07/05/15 10.34.06.922
+(Reader thread 24) threadID: 176113408	Begins reading "normal.in" at: 07/05/15 10.34.06.922
+(Writer thread 27) threadID: 150935296	Created at: 07/05/15 10.34.06.926
+(Writer thread 27) threadID: 150935296	Begins writing "normal.in" at: 07/05/15 10.34.06.926
+(Writer thread 27) threadID: 150935296	Ends   writing "normal.in" at: 07/05/15 10.34.06.927
+(Writer thread 28) threadID: 142542592	Created at: 07/05/15 10.34.06.927
+(Writer thread 28) threadID: 142542592	Begins writing "normal.in" at: 07/05/15 10.34.06.927
+(Writer thread 28) threadID: 142542592	Ends   writing "normal.in" at: 07/05/15 10.34.06.928
+(Reader thread 36) threadID: 75400960	Created at: 07/05/15 10.34.06.928
+(Reader thread 36) threadID: 75400960	Begins reading "normal.in" at: 07/05/15 10.34.06.928
+(Reader thread 38) threadID: 58615552	Created at: 07/05/15 10.34.06.930
+(Reader thread 38) threadID: 58615552	Begins reading "normal.in" at: 07/05/15 10.34.06.930
+(Writer thread 42) threadID: 25044736	Created at: 07/05/15 10.34.06.934
+(Writer thread 42) threadID: 25044736	Begins writing "normal.in" at: 07/05/15 10.34.06.934
+(Writer thread 42) threadID: 25044736	Ends   writing "normal.in" at: 07/05/15 10.34.06.935
+(Reader thread 17) threadID: 234862336	Created at: 07/05/15 10.34.06.935
+(Reader thread 17) threadID: 234862336	Begins reading "normal.in" at: 07/05/15 10.34.06.935
+(Reader thread 13) threadID: 268433152	Created at: 07/05/15 10.34.06.938
+(Reader thread 13) threadID: 268433152	Begins reading "normal.in" at: 07/05/15 10.34.06.938
+(Reader thread 26) threadID: 159328000	Created at: 07/05/15 10.34.06.942
+(Reader thread 26) threadID: 159328000	Begins reading "normal.in" at: 07/05/15 10.34.06.942
+(Reader thread 41) threadID: 33437440	Created at: 07/05/15 10.34.06.942
+(Reader thread 41) threadID: 33437440	Begins reading "normal.in" at: 07/05/15 10.34.06.942
+(Reader thread 39) threadID: 50222848	Created at: 07/05/15 10.34.06.946
+(Reader thread 8) threadID: 385865472	Created at: 07/05/15 10.34.06.946
+(Reader thread 39) threadID: 50222848	Begins reading "normal.in" at: 07/05/15 10.34.06.946
+(Writer thread 9) threadID: 377472768	Created at: 07/05/15 10.34.06.950
+(Writer thread 20) threadID: 209684224	Created at: 07/05/15 10.34.06.950
+(Reader thread 23) threadID: 184506112	Created at: 07/05/15 10.34.06.950
+(Writer thread 14) threadID: 260040448	Created at: 07/05/15 10.34.06.950
+(Reader thread 12) threadID: 352294656	Created at: 07/05/15 10.34.06.950
+(Reader thread 22) threadID: 192898816	Created at: 07/05/15 10.34.06.950
+(Writer thread 10) threadID: 369080064	Created at: 07/05/15 10.34.06.950
+(Reader thread 15) threadID: 251647744	Created at: 07/05/15 10.34.06.950
+(Writer thread 11) threadID: 360687360	Created at: 07/05/15 10.34.06.950
+(Reader thread 7) threadID: 394258176	Created at: 07/05/15 10.34.06.950
+(Reader thread 6) threadID: 402650880	Created at: 07/05/15 10.34.06.950
+(Reader thread 5) threadID: 615474944	Created at: 07/05/15 10.34.06.950
+(Reader thread 25) threadID: 167720704	Created at: 07/05/15 10.34.06.950
+(Reader thread 29) threadID: 134149888	Created at: 07/05/15 10.34.06.950
+(Reader thread 30) threadID: 125757184	Created at: 07/05/15 10.34.06.950
+(Reader thread 33) threadID: 100579072	Created at: 07/05/15 10.34.06.950
+(Reader thread 31) threadID: 117364480	Created at: 07/05/15 10.34.06.950
+(Reader thread 35) threadID: 83793664	Created at: 07/05/15 10.34.06.950
+(Reader thread 8) threadID: 385865472	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Writer thread 9) threadID: 377472768	Begins writing "normal.in" at: 07/05/15 10.34.06.953
+(Writer thread 14) threadID: 260040448	Begins writing "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 23) threadID: 184506112	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 15) threadID: 251647744	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Writer thread 10) threadID: 369080064	Begins writing "normal.in" at: 07/05/15 10.34.06.953
+(Writer thread 20) threadID: 209684224	Begins writing "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 22) threadID: 192898816	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Writer thread 11) threadID: 360687360	Begins writing "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 12) threadID: 352294656	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 7) threadID: 394258176	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 6) threadID: 402650880	Begins reading "normal.in" at: 07/05/15 10.34.06.953
+(Reader thread 29) threadID: 134149888	Begins reading "normal.in" at: 07/05/15 10.34.06.954
+(Reader thread 31) threadID: 117364480	Begins reading "normal.in" at: 07/05/15 10.34.06.954
+(Reader thread 33) threadID: 100579072	Begins reading "normal.in" at: 07/05/15 10.34.06.954
+(Reader thread 30) threadID: 125757184	Begins reading "normal.in" at: 07/05/15 10.34.06.954
+(Reader thread 25) threadID: 167720704	Begins reading "normal.in" at: 07/05/15 10.34.06.954
+(Reader thread 5) threadID: 615474944	Begins reading "normal.in" at: 07/05/15 10.34.06.958
+(Reader thread 35) threadID: 83793664	Begins reading "normal.in" at: 07/05/15 10.34.06.990
+(Writer thread 10) threadID: 369080064	Ends   writing "normal.in" at: 07/05/15 10.34.07.006
+(Writer thread 9) threadID: 377472768	Ends   writing "normal.in" at: 07/05/15 10.34.07.010
+(Writer thread 14) threadID: 260040448	Ends   writing "normal.in" at: 07/05/15 10.34.07.010
+(Writer thread 20) threadID: 209684224	Ends   writing "normal.in" at: 07/05/15 10.34.07.010
+(Writer thread 11) threadID: 360687360	Ends   writing "normal.in" at: 07/05/15 10.34.07.010
+(Reader thread 1) threadID: 649045760	Ends   reading "normal.in" at: 07/05/15 10.34.18.388
+(Reader thread 40) threadID: 41830144	Ends   reading "normal.in" at: 07/05/15 10.34.18.925
+(Reader thread 35) threadID: 83793664	Ends   reading "normal.in" at: 07/05/15 10.34.18.956
+(Reader thread 39) threadID: 50222848	Ends   reading "normal.in" at: 07/05/15 10.34.18.956
+(Reader thread 36) threadID: 75400960	Ends   reading "normal.in" at: 07/05/15 10.34.18.957
+(Reader thread 6) threadID: 402650880	Ends   reading "normal.in" at: 07/05/15 10.34.18.969
+(Reader thread 43) threadID: 16652032	Ends   reading "normal.in" at: 07/05/15 10.34.18.970
+(Reader thread 8) threadID: 385865472	Ends   reading "normal.in" at: 07/05/15 10.34.19.023
+(Reader thread 23) threadID: 184506112	Ends   reading "normal.in" at: 07/05/15 10.34.19.023
+(Reader thread 25) threadID: 167720704	Ends   reading "normal.in" at: 07/05/15 10.34.19.023
+(Reader thread 37) threadID: 67008256	Ends   reading "normal.in" at: 07/05/15 10.34.19.023
+(Reader thread 15) threadID: 251647744	Ends   reading "normal.in" at: 07/05/15 10.34.19.023
+(Reader thread 41) threadID: 33437440	Ends   reading "normal.in" at: 07/05/15 10.34.19.028
+(Reader thread 38) threadID: 58615552	Ends   reading "normal.in" at: 07/05/15 10.34.19.030
+(Reader thread 32) threadID: 108971776	Ends   reading "normal.in" at: 07/05/15 10.34.19.032
+(Reader thread 34) threadID: 92186368	Ends   reading "normal.in" at: 07/05/15 10.34.19.041
+(Reader thread 22) threadID: 192898816	Ends   reading "normal.in" at: 07/05/15 10.34.19.294
+(Reader thread 12) threadID: 352294656	Ends   reading "normal.in" at: 07/05/15 10.34.19.294
+(Reader thread 5) threadID: 615474944	Ends   reading "normal.in" at: 07/05/15 10.34.19.323
+(Reader thread 0) threadID: 657438464	Ends   reading "normal.in" at: 07/05/15 10.34.19.339
+(Reader thread 24) threadID: 176113408	Ends   reading "normal.in" at: 07/05/15 10.34.19.350
+(Reader thread 13) threadID: 268433152	Ends   reading "normal.in" at: 07/05/15 10.34.19.351
+(Reader thread 21) threadID: 201291520	Ends   reading "normal.in" at: 07/05/15 10.34.19.360
+(Reader thread 29) threadID: 134149888	Ends   reading "normal.in" at: 07/05/15 10.34.19.361
+(Reader thread 31) threadID: 117364480	Ends   reading "normal.in" at: 07/05/15 10.34.19.375
+(Reader thread 30) threadID: 125757184	Ends   reading "normal.in" at: 07/05/15 10.34.19.375
+(Reader thread 7) threadID: 394258176	Ends   reading "normal.in" at: 07/05/15 10.34.19.375
+(Reader thread 26) threadID: 159328000	Ends   reading "normal.in" at: 07/05/15 10.34.19.375
+(Reader thread 33) threadID: 100579072	Ends   reading "normal.in" at: 07/05/15 10.34.19.378
+(Reader thread 16) threadID: 243255040	Ends   reading "normal.in" at: 07/05/15 10.34.19.384
+(Reader thread 17) threadID: 234862336	Ends   reading "normal.in" at: 07/05/15 10.34.19.384
+(Reader thread 19) threadID: 218076928	Ends   reading "normal.in" at: 07/05/15 10.34.19.384
+(Reader thread 18) threadID: 226469632	Ends   reading "normal.in" at: 07/05/15 10.34.19.384
+
+Normal() test run end on 07/05/15 10.34.19.385
+
+
+Normal() test run started on 07/05/15 10.36.06.357
+Total Threads: 24
+(Reader thread 0) threadID: 1944184576	Created at: 07/05/15 10.36.06.357
+(Reader thread 1) threadID: 1935791872	Created at: 07/05/15 10.36.06.357
+(Reader thread 0) threadID: 1944184576	Begins reading "normal.in" at: 07/05/15 10.36.06.357
+(Reader thread 1) threadID: 1935791872	Begins reading "normal.in" at: 07/05/15 10.36.06.358
+(Reader thread 3) threadID: 1919006464	Created at: 07/05/15 10.36.06.358
+(Reader thread 2) threadID: 1927399168	Created at: 07/05/15 10.36.06.358
+(Reader thread 3) threadID: 1919006464	Begins reading "normal.in" at: 07/05/15 10.36.06.363
+(Reader thread 2) threadID: 1927399168	Begins reading "normal.in" at: 07/05/15 10.36.06.363
+(Writer thread 4) threadID: 1910613760	Created at: 07/05/15 10.36.06.372
+(Writer thread 4) threadID: 1910613760	Begins writing "normal.in" at: 07/05/15 10.36.06.383
+(Writer thread 5) threadID: 1902221056	Created at: 07/05/15 10.36.06.394
+(Reader thread 6) threadID: 1893828352	Created at: 07/05/15 10.36.06.394
+(Writer thread 5) threadID: 1902221056	Begins writing "normal.in" at: 07/05/15 10.36.06.394
+(Reader thread 6) threadID: 1893828352	Begins reading "normal.in" at: 07/05/15 10.36.06.394
+(Reader thread 13) threadID: 1560254208	Created at: 07/05/15 10.36.06.398
+(Reader thread 13) threadID: 1560254208	Begins reading "normal.in" at: 07/05/15 10.36.06.398
+(Writer thread 12) threadID: 1568646912	Created at: 07/05/15 10.36.06.399
+(Writer thread 12) threadID: 1568646912	Begins writing "normal.in" at: 07/05/15 10.36.06.399
+(Reader thread 15) threadID: 1333782272	Created at: 07/05/15 10.36.06.399
+(Reader thread 15) threadID: 1333782272	Begins reading "normal.in" at: 07/05/15 10.36.06.399
+(Reader thread 11) threadID: 1577039616	Created at: 07/05/15 10.36.06.399
+(Reader thread 11) threadID: 1577039616	Begins reading "normal.in" at: 07/05/15 10.36.06.399
+(Writer thread 9) threadID: 1593825024	Created at: 07/05/15 10.36.06.399
+(Writer thread 9) threadID: 1593825024	Begins writing "normal.in" at: 07/05/15 10.36.06.399
+(Reader thread 10) threadID: 1585432320	Created at: 07/05/15 10.36.06.399
+(Reader thread 10) threadID: 1585432320	Begins reading "normal.in" at: 07/05/15 10.36.06.399
+(Writer thread 8) threadID: 1602217728	Created at: 07/05/15 10.36.06.399
+(Writer thread 8) threadID: 1602217728	Begins writing "normal.in" at: 07/05/15 10.36.06.399
+(Writer thread 14) threadID: 1342174976	Created at: 07/05/15 10.36.06.399
+(Writer thread 14) threadID: 1342174976	Begins writing "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 7) threadID: 1610610432	Created at: 07/05/15 10.36.06.400
+(Reader thread 7) threadID: 1610610432	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 20) threadID: 1291818752	Created at: 07/05/15 10.36.06.400
+(Reader thread 20) threadID: 1291818752	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Writer thread 21) threadID: 1283426048	Created at: 07/05/15 10.36.06.400
+(Writer thread 21) threadID: 1283426048	Begins writing "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 22) threadID: 1275033344	Created at: 07/05/15 10.36.06.400
+(Reader thread 22) threadID: 1275033344	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 23) threadID: 1266640640	Created at: 07/05/15 10.36.06.400
+(Reader thread 23) threadID: 1266640640	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 19) threadID: 1300211456	Created at: 07/05/15 10.36.06.400
+(Reader thread 19) threadID: 1300211456	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 18) threadID: 1308604160	Created at: 07/05/15 10.36.06.400
+(Reader thread 18) threadID: 1308604160	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 17) threadID: 1316996864	Created at: 07/05/15 10.36.06.400
+(Reader thread 17) threadID: 1316996864	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Reader thread 16) threadID: 1325389568	Created at: 07/05/15 10.36.06.400
+(Reader thread 16) threadID: 1325389568	Begins reading "normal.in" at: 07/05/15 10.36.06.400
+(Writer thread 9) threadID: 1593825024	Ends   writing "normal.in" at: 07/05/15 10.36.06.435
+(Writer thread 8) threadID: 1602217728	Ends   writing "normal.in" at: 07/05/15 10.36.06.437
+(Writer thread 21) threadID: 1283426048	Ends   writing "normal.in" at: 07/05/15 10.36.06.443
+(Writer thread 4) threadID: 1910613760	Ends   writing "normal.in" at: 07/05/15 10.36.06.463
+(Writer thread 12) threadID: 1568646912	Ends   writing "normal.in" at: 07/05/15 10.36.06.463
+(Writer thread 5) threadID: 1902221056	Ends   writing "normal.in" at: 07/05/15 10.36.06.467
+(Writer thread 14) threadID: 1342174976	Ends   writing "normal.in" at: 07/05/15 10.36.06.467
+(Reader thread 2) threadID: 1927399168	Ends   reading "normal.in" at: 07/05/15 10.36.12.318
+(Reader thread 1) threadID: 1935791872	Ends   reading "normal.in" at: 07/05/15 10.36.12.322
+(Reader thread 10) threadID: 1585432320	Ends   reading "normal.in" at: 07/05/15 10.36.12.374
+(Reader thread 13) threadID: 1560254208	Ends   reading "normal.in" at: 07/05/15 10.36.12.386
+(Reader thread 3) threadID: 1919006464	Ends   reading "normal.in" at: 07/05/15 10.36.12.388
+(Reader thread 6) threadID: 1893828352	Ends   reading "normal.in" at: 07/05/15 10.36.12.416
+(Reader thread 15) threadID: 1333782272	Ends   reading "normal.in" at: 07/05/15 10.36.12.416
+(Reader thread 16) threadID: 1325389568	Ends   reading "normal.in" at: 07/05/15 10.36.12.416
+(Reader thread 0) threadID: 1944184576	Ends   reading "normal.in" at: 07/05/15 10.36.12.594
+(Reader thread 22) threadID: 1275033344	Ends   reading "normal.in" at: 07/05/15 10.36.12.711
+(Reader thread 18) threadID: 1308604160	Ends   reading "normal.in" at: 07/05/15 10.36.12.715
+(Reader thread 11) threadID: 1577039616	Ends   reading "normal.in" at: 07/05/15 10.36.12.724
+(Reader thread 23) threadID: 1266640640	Ends   reading "normal.in" at: 07/05/15 10.36.12.747
+(Reader thread 7) threadID: 1610610432	Ends   reading "normal.in" at: 07/05/15 10.36.12.747
+(Reader thread 17) threadID: 1316996864	Ends   reading "normal.in" at: 07/05/15 10.36.12.748
+(Reader thread 19) threadID: 1300211456	Ends   reading "normal.in" at: 07/05/15 10.36.12.750
+(Reader thread 20) threadID: 1291818752	Ends   reading "normal.in" at: 07/05/15 10.36.12.755
+
+Normal() test run end on 07/05/15 10.36.12.755
+
+
+Normal() test run started on 07/05/15 10.40.54.953
+Total Threads: 13
+(Writer thread 0) threadID: 1103677184	Created at: 07/05/15 10.40.54.954
+(Reader thread 1) threadID: 1095284480	Created at: 07/05/15 10.40.55.155
+(Reader thread 2) threadID: 1086891776	Created at: 07/05/15 10.40.55.155
+(Writer thread 0) threadID: 1103677184	Begins writing "normal.in" at: 07/05/15 10.40.55.155
+(Reader thread 1) threadID: 1095284480	Begins reading "normal.in" at: 07/05/15 10.40.55.155
+(Reader thread 2) threadID: 1086891776	Begins reading "normal.in" at: 07/05/15 10.40.55.155
+(Writer thread 3) threadID: 1006630656	Created at: 07/05/15 10.40.55.159
+(Reader thread 4) threadID: 998237952	Created at: 07/05/15 10.40.55.163
+(Writer thread 0) threadID: 1103677184	Ends   writing "normal.in" at: 07/05/15 10.40.55.166
+(Reader thread 4) threadID: 998237952	Begins reading "normal.in" at: 07/05/15 10.40.55.171
+(Writer thread 3) threadID: 1006630656	Begins writing "normal.in" at: 07/05/15 10.40.55.171
+(Writer thread 3) threadID: 1006630656	Ends   writing "normal.in" at: 07/05/15 10.40.55.176
+(Reader thread 6) threadID: 981452544	Created at: 07/05/15 10.40.55.177
+(Reader thread 6) threadID: 981452544	Begins reading "normal.in" at: 07/05/15 10.40.55.177
+(Reader thread 9) threadID: 956274432	Created at: 07/05/15 10.40.55.179
+(Reader thread 9) threadID: 956274432	Begins reading "normal.in" at: 07/05/15 10.40.55.179
+(Writer thread 5) threadID: 989845248	Created at: 07/05/15 10.40.55.179
+(Reader thread 10) threadID: 536868608	Created at: 07/05/15 10.40.55.183
+(Reader thread 10) threadID: 536868608	Begins reading "normal.in" at: 07/05/15 10.40.55.183
+(Writer thread 5) threadID: 989845248	Begins writing "normal.in" at: 07/05/15 10.40.55.183
+(Writer thread 5) threadID: 989845248	Ends   writing "normal.in" at: 07/05/15 10.40.55.183
+(Reader thread 11) threadID: 528475904	Created at: 07/05/15 10.40.55.187
+(Reader thread 11) threadID: 528475904	Begins reading "normal.in" at: 07/05/15 10.40.55.187
+(Writer thread 12) threadID: 520083200	Created at: 07/05/15 10.40.55.191
+(Writer thread 12) threadID: 520083200	Begins writing "normal.in" at: 07/05/15 10.40.55.191
+(Writer thread 12) threadID: 520083200	Ends   writing "normal.in" at: 07/05/15 10.40.55.191
+(Reader thread 8) threadID: 964667136	Created at: 07/05/15 10.40.55.191
+(Reader thread 8) threadID: 964667136	Begins reading "normal.in" at: 07/05/15 10.40.55.191
+(Reader thread 7) threadID: 973059840	Created at: 07/05/15 10.40.55.198
+(Reader thread 7) threadID: 973059840	Begins reading "normal.in" at: 07/05/15 10.40.55.198
+(Reader thread 4) threadID: 998237952	Ends   reading "normal.in" at: 07/05/15 10.40.58.426
+(Reader thread 2) threadID: 1086891776	Ends   reading "normal.in" at: 07/05/15 10.40.58.498
+(Reader thread 11) threadID: 528475904	Ends   reading "normal.in" at: 07/05/15 10.40.58.501
+(Reader thread 1) threadID: 1095284480	Ends   reading "normal.in" at: 07/05/15 10.40.58.517
+(Reader thread 7) threadID: 973059840	Ends   reading "normal.in" at: 07/05/15 10.40.58.518
+(Reader thread 6) threadID: 981452544	Ends   reading "normal.in" at: 07/05/15 10.40.58.525
+(Reader thread 8) threadID: 964667136	Ends   reading "normal.in" at: 07/05/15 10.40.58.527
+(Reader thread 10) threadID: 536868608	Ends   reading "normal.in" at: 07/05/15 10.40.58.543
+(Reader thread 9) threadID: 956274432	Ends   reading "normal.in" at: 07/05/15 10.40.58.551
+
+Normal() test run end on 07/05/15 10.40.58.551
+
+
+Normal() test run started on 07/05/15 11.13.01.021
+Total Threads: 82
+(Reader thread 0) threadID: 3964569344	Created at: 07/05/15 11.13.01.021
+(Reader thread 0) threadID: 3964569344	Begins reading "normal.in" at: 07/05/15 11.13.01.022
+(Reader thread 1) threadID: 3956176640	Created at: 07/05/15 11.13.01.022
+(Reader thread 2) threadID: 3947783936	Created at: 07/05/15 11.13.01.022
+(Reader thread 2) threadID: 3947783936	Begins reading "normal.in" at: 07/05/15 11.13.01.022
+(Reader thread 3) threadID: 3939391232	Created at: 07/05/15 11.13.01.026
+(Reader thread 1) threadID: 3956176640	Begins reading "normal.in" at: 07/05/15 11.13.01.026
+(Reader thread 3) threadID: 3939391232	Begins reading "normal.in" at: 07/05/15 11.13.01.027
+(Reader thread 4) threadID: 3930998528	Created at: 07/05/15 11.13.01.042
+(Reader thread 4) threadID: 3930998528	Begins reading "normal.in" at: 07/05/15 11.13.01.043
+(Reader thread 5) threadID: 3922605824	Created at: 07/05/15 11.13.01.046
+(Reader thread 5) threadID: 3922605824	Begins reading "normal.in" at: 07/05/15 11.13.01.046
+(Reader thread 8) threadID: 3623876352	Created at: 07/05/15 11.13.01.050
+(Reader thread 8) threadID: 3623876352	Begins reading "normal.in" at: 07/05/15 11.13.01.050
+(Reader thread 11) threadID: 3598698240	Created at: 07/05/15 11.13.01.053
+(Reader thread 11) threadID: 3598698240	Begins reading "normal.in" at: 07/05/15 11.13.01.053
+(Reader thread 26) threadID: 3263121152	Created at: 07/05/15 11.13.01.059
+(Reader thread 17) threadID: 3338655488	Created at: 07/05/15 11.13.01.059
+(Reader thread 32) threadID: 3212764928	Created at: 07/05/15 11.13.01.059
+(Reader thread 12) threadID: 3590305536	Created at: 07/05/15 11.13.01.059
+(Reader thread 14) threadID: 3573520128	Created at: 07/05/15 11.13.01.059
+(Reader thread 33) threadID: 3204372224	Created at: 07/05/15 11.13.01.059
+(Reader thread 28) threadID: 3246335744	Created at: 07/05/15 11.13.01.059
+(Reader thread 23) threadID: 3288299264	Created at: 07/05/15 11.13.01.059
+(Reader thread 15) threadID: 3355440896	Created at: 07/05/15 11.13.01.059
+(Reader thread 18) threadID: 3330262784	Created at: 07/05/15 11.13.01.059
+(Reader thread 13) threadID: 3581912832	Created at: 07/05/15 11.13.01.059
+(Reader thread 29) threadID: 3237943040	Created at: 07/05/15 11.13.01.059
+(Writer thread 25) threadID: 3271513856	Created at: 07/05/15 11.13.01.059
+(Reader thread 16) threadID: 3347048192	Created at: 07/05/15 11.13.01.059
+(Writer thread 19) threadID: 3321870080	Created at: 07/05/15 11.13.01.059
+(Reader thread 10) threadID: 3607090944	Created at: 07/05/15 11.13.01.059
+(Reader thread 31) threadID: 3221157632	Created at: 07/05/15 11.13.01.060
+(Reader thread 24) threadID: 3279906560	Created at: 07/05/15 11.13.01.060
+(Reader thread 22) threadID: 3296691968	Created at: 07/05/15 11.13.01.060
+(Reader thread 30) threadID: 3229550336	Created at: 07/05/15 11.13.01.060
+(Reader thread 28) threadID: 3246335744	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 23) threadID: 3288299264	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 13) threadID: 3581912832	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 29) threadID: 3237943040	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 33) threadID: 3204372224	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Writer thread 25) threadID: 3271513856	Begins writing "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 12) threadID: 3590305536	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 18) threadID: 3330262784	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 20) threadID: 3313477376	Created at: 07/05/15 11.13.01.060
+(Reader thread 14) threadID: 3573520128	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 32) threadID: 3212764928	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 17) threadID: 3338655488	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 15) threadID: 3355440896	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 27) threadID: 3254728448	Created at: 07/05/15 11.13.01.060
+(Reader thread 26) threadID: 3263121152	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Writer thread 19) threadID: 3321870080	Begins writing "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 16) threadID: 3347048192	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 21) threadID: 3305084672	Created at: 07/05/15 11.13.01.060
+(Reader thread 24) threadID: 3279906560	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 22) threadID: 3296691968	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 31) threadID: 3221157632	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 30) threadID: 3229550336	Begins reading "normal.in" at: 07/05/15 11.13.01.060
+(Reader thread 20) threadID: 3313477376	Begins reading "normal.in" at: 07/05/15 11.13.01.080
+(Reader thread 27) threadID: 3254728448	Begins reading "normal.in" at: 07/05/15 11.13.01.094
+(Reader thread 53) threadID: 3036518144	Created at: 07/05/15 11.13.01.100
+(Writer thread 44) threadID: 3112052480	Created at: 07/05/15 11.13.01.103
+(Reader thread 81) threadID: 2801522432	Created at: 07/05/15 11.13.01.103
+(Reader thread 78) threadID: 2826700544	Created at: 07/05/15 11.13.01.103
+(Reader thread 79) threadID: 2818307840	Created at: 07/05/15 11.13.01.103
+(Writer thread 80) threadID: 2809915136	Created at: 07/05/15 11.13.01.103
+(Reader thread 77) threadID: 2835093248	Created at: 07/05/15 11.13.01.103
+(Reader thread 76) threadID: 2843485952	Created at: 07/05/15 11.13.01.103
+(Reader thread 71) threadID: 2885449472	Created at: 07/05/15 11.13.01.103
+(Reader thread 72) threadID: 2877056768	Created at: 07/05/15 11.13.01.103
+(Reader thread 73) threadID: 2868664064	Created at: 07/05/15 11.13.01.103
+(Writer thread 66) threadID: 2927412992	Created at: 07/05/15 11.13.01.103
+(Reader thread 64) threadID: 2944198400	Created at: 07/05/15 11.13.01.103
+(Reader thread 74) threadID: 2860271360	Created at: 07/05/15 11.13.01.103
+(Reader thread 48) threadID: 3078481664	Created at: 07/05/15 11.13.01.103
+(Reader thread 70) threadID: 2893842176	Created at: 07/05/15 11.13.01.103
+(Reader thread 46) threadID: 3095267072	Created at: 07/05/15 11.13.01.103
+(Reader thread 47) threadID: 3086874368	Created at: 07/05/15 11.13.01.103
+(Reader thread 45) threadID: 3103659776	Created at: 07/05/15 11.13.01.103
+(Reader thread 62) threadID: 2960983808	Created at: 07/05/15 11.13.01.103
+(Reader thread 69) threadID: 2902234880	Created at: 07/05/15 11.13.01.103
+(Writer thread 65) threadID: 2935805696	Created at: 07/05/15 11.13.01.103
+(Writer thread 63) threadID: 2952591104	Created at: 07/05/15 11.13.01.103
+(Reader thread 68) threadID: 2910627584	Created at: 07/05/15 11.13.01.103
+(Writer thread 75) threadID: 2851878656	Created at: 07/05/15 11.13.01.103
+(Reader thread 61) threadID: 2969376512	Created at: 07/05/15 11.13.01.103
+(Reader thread 50) threadID: 3061696256	Created at: 07/05/15 11.13.01.103
+(Reader thread 49) threadID: 3070088960	Created at: 07/05/15 11.13.01.103
+(Reader thread 67) threadID: 2919020288	Created at: 07/05/15 11.13.01.103
+(Reader thread 53) threadID: 3036518144	Begins reading "normal.in" at: 07/05/15 11.13.01.103
+(Reader thread 47) threadID: 3086874368	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 70) threadID: 2893842176	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 45) threadID: 3103659776	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 63) threadID: 2952591104	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 65) threadID: 2935805696	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 46) threadID: 3095267072	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 62) threadID: 2960983808	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 80) threadID: 2809915136	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 77) threadID: 2835093248	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 76) threadID: 2843485952	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 78) threadID: 2826700544	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 79) threadID: 2818307840	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 73) threadID: 2868664064	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 74) threadID: 2860271360	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 71) threadID: 2885449472	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 72) threadID: 2877056768	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 66) threadID: 2927412992	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 81) threadID: 2801522432	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 64) threadID: 2944198400	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 75) threadID: 2851878656	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 61) threadID: 2969376512	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 68) threadID: 2910627584	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 48) threadID: 3078481664	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 69) threadID: 2902234880	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 49) threadID: 3070088960	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 67) threadID: 2919020288	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Reader thread 50) threadID: 3061696256	Begins reading "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 44) threadID: 3112052480	Begins writing "normal.in" at: 07/05/15 11.13.01.119
+(Writer thread 75) threadID: 2851878656	Ends   writing "normal.in" at: 07/05/15 11.13.01.207
+(Writer thread 65) threadID: 2935805696	Ends   writing "normal.in" at: 07/05/15 11.13.01.207
+(Writer thread 66) threadID: 2927412992	Ends   writing "normal.in" at: 07/05/15 11.13.01.207
+(Writer thread 63) threadID: 2952591104	Ends   writing "normal.in" at: 07/05/15 11.13.01.207
+(Writer thread 80) threadID: 2809915136	Ends   writing "normal.in" at: 07/05/15 11.13.01.208
+(Writer thread 44) threadID: 3112052480	Ends   writing "normal.in" at: 07/05/15 11.13.01.208
+(Reader thread 40) threadID: 3145623296	Created at: 07/05/15 11.13.01.099
+(Reader thread 40) threadID: 3145623296	Begins reading "normal.in" at: 07/05/15 11.13.01.227
+(Reader thread 41) threadID: 3137230592	Created at: 07/05/15 11.13.01.099
+(Reader thread 41) threadID: 3137230592	Begins reading "normal.in" at: 07/05/15 11.13.01.231
+(Writer thread 37) threadID: 3170801408	Created at: 07/05/15 11.13.01.099
+(Writer thread 37) threadID: 3170801408	Begins writing "normal.in" at: 07/05/15 11.13.01.235
+(Writer thread 37) threadID: 3170801408	Ends   writing "normal.in" at: 07/05/15 11.13.01.235
+(Reader thread 42) threadID: 3128837888	Created at: 07/05/15 11.13.01.099
+(Reader thread 42) threadID: 3128837888	Begins reading "normal.in" at: 07/05/15 11.13.01.236
+(Writer thread 36) threadID: 3179194112	Created at: 07/05/15 11.13.01.099
+(Writer thread 36) threadID: 3179194112	Begins writing "normal.in" at: 07/05/15 11.13.01.239
+(Writer thread 36) threadID: 3179194112	Ends   writing "normal.in" at: 07/05/15 11.13.01.240
+(Reader thread 39) threadID: 3154016000	Created at: 07/05/15 11.13.01.100
+(Reader thread 39) threadID: 3154016000	Begins reading "normal.in" at: 07/05/15 11.13.01.240
+(Reader thread 38) threadID: 3162408704	Created at: 07/05/15 11.13.01.100
+(Reader thread 38) threadID: 3162408704	Begins reading "normal.in" at: 07/05/15 11.13.01.242
+(Reader thread 35) threadID: 3187586816	Created at: 07/05/15 11.13.01.100
+(Reader thread 35) threadID: 3187586816	Begins reading "normal.in" at: 07/05/15 11.13.01.247
+(Reader thread 43) threadID: 3120445184	Created at: 07/05/15 11.13.01.100
+(Reader thread 43) threadID: 3120445184	Begins reading "normal.in" at: 07/05/15 11.13.01.250
+(Reader thread 34) threadID: 3195979520	Created at: 07/05/15 11.13.01.100
+(Reader thread 34) threadID: 3195979520	Begins reading "normal.in" at: 07/05/15 11.13.01.255
+(Reader thread 59) threadID: 2986161920	Created at: 07/05/15 11.13.01.100
+(Reader thread 59) threadID: 2986161920	Begins reading "normal.in" at: 07/05/15 11.13.01.259
+(Reader thread 57) threadID: 3002947328	Created at: 07/05/15 11.13.01.100
+(Reader thread 57) threadID: 3002947328	Begins reading "normal.in" at: 07/05/15 11.13.01.263
+(Reader thread 55) threadID: 3019732736	Created at: 07/05/15 11.13.01.100
+(Reader thread 55) threadID: 3019732736	Begins reading "normal.in" at: 07/05/15 11.13.01.267
+(Writer thread 54) threadID: 3028125440	Created at: 07/05/15 11.13.01.100
+(Writer thread 54) threadID: 3028125440	Begins writing "normal.in" at: 07/05/15 11.13.01.271
+(Writer thread 54) threadID: 3028125440	Ends   writing "normal.in" at: 07/05/15 11.13.01.271
+(Reader thread 58) threadID: 2994554624	Created at: 07/05/15 11.13.01.100
+(Reader thread 58) threadID: 2994554624	Begins reading "normal.in" at: 07/05/15 11.13.01.271
+(Reader thread 56) threadID: 3011340032	Created at: 07/05/15 11.13.01.100
+(Reader thread 56) threadID: 3011340032	Begins reading "normal.in" at: 07/05/15 11.13.01.274
+(Writer thread 52) threadID: 3044910848	Created at: 07/05/15 11.13.01.100
+(Writer thread 52) threadID: 3044910848	Begins writing "normal.in" at: 07/05/15 11.13.01.279
+(Writer thread 52) threadID: 3044910848	Ends   writing "normal.in" at: 07/05/15 11.13.01.279
+(Writer thread 51) threadID: 3053303552	Created at: 07/05/15 11.13.01.100
+(Writer thread 51) threadID: 3053303552	Begins writing "normal.in" at: 07/05/15 11.13.01.279
+(Writer thread 51) threadID: 3053303552	Ends   writing "normal.in" at: 07/05/15 11.13.01.280
+(Reader thread 60) threadID: 2977769216	Created at: 07/05/15 11.13.01.100
+(Reader thread 60) threadID: 2977769216	Begins reading "normal.in" at: 07/05/15 11.13.01.280
+(Reader thread 10) threadID: 3607090944	Begins reading "normal.in" at: 07/05/15 11.13.01.099
+(Writer thread 9) threadID: 3615483648	Created at: 07/05/15 11.13.01.299
+(Writer thread 9) threadID: 3615483648	Begins writing "normal.in" at: 07/05/15 11.13.01.299
+(Writer thread 9) threadID: 3615483648	Ends   writing "normal.in" at: 07/05/15 11.13.01.299
+(Writer thread 25) threadID: 3271513856	Ends   writing "normal.in" at: 07/05/15 11.13.01.307
+(Writer thread 19) threadID: 3321870080	Ends   writing "normal.in" at: 07/05/15 11.13.01.311
+(Reader thread 7) threadID: 3905820416	Created at: 07/05/15 11.13.01.311
+(Reader thread 7) threadID: 3905820416	Begins reading "normal.in" at: 07/05/15 11.13.01.311
+(Reader thread 6) threadID: 3914213120	Created at: 07/05/15 11.13.01.327
+(Reader thread 6) threadID: 3914213120	Begins reading "normal.in" at: 07/05/15 11.13.01.327
+(Reader thread 21) threadID: 3305084672	Begins reading "normal.in" at: 07/05/15 11.13.01.099
+(Reader thread 12) threadID: 3590305536	Ends   reading "normal.in" at: 07/05/15 11.13.30.015
+(Reader thread 4) threadID: 3930998528	Ends   reading "normal.in" at: 07/05/15 11.13.30.555
+(Reader thread 23) threadID: 3288299264	Ends   reading "normal.in" at: 07/05/15 11.13.30.558
+(Reader thread 2) threadID: 3947783936	Ends   reading "normal.in" at: 07/05/15 11.13.30.578
+(Reader thread 17) threadID: 3338655488	Ends   reading "normal.in" at: 07/05/15 11.13.30.592
+(Reader thread 14) threadID: 3573520128	Ends   reading "normal.in" at: 07/05/15 11.13.30.652
+(Reader thread 13) threadID: 3581912832	Ends   reading "normal.in" at: 07/05/15 11.13.30.795
+(Reader thread 1) threadID: 3956176640	Ends   reading "normal.in" at: 07/05/15 11.13.30.823
+(Reader thread 8) threadID: 3623876352	Ends   reading "normal.in" at: 07/05/15 11.13.30.837
+(Reader thread 33) threadID: 3204372224	Ends   reading "normal.in" at: 07/05/15 11.13.30.858
+(Reader thread 3) threadID: 3939391232	Ends   reading "normal.in" at: 07/05/15 11.13.30.863
+(Reader thread 76) threadID: 2843485952	Ends   reading "normal.in" at: 07/05/15 11.13.30.916
+(Reader thread 72) threadID: 2877056768	Ends   reading "normal.in" at: 07/05/15 11.13.30.976
+(Reader thread 60) threadID: 2977769216	Ends   reading "normal.in" at: 07/05/15 11.13.30.997
+(Reader thread 5) threadID: 3922605824	Ends   reading "normal.in" at: 07/05/15 11.13.31.003
+(Reader thread 39) threadID: 3154016000	Ends   reading "normal.in" at: 07/05/15 11.13.31.027
+(Reader thread 32) threadID: 3212764928	Ends   reading "normal.in" at: 07/05/15 11.13.31.039
+(Reader thread 28) threadID: 3246335744	Ends   reading "normal.in" at: 07/05/15 11.13.31.079
+(Reader thread 18) threadID: 3330262784	Ends   reading "normal.in" at: 07/05/15 11.13.31.095
+(Reader thread 46) threadID: 3095267072	Ends   reading "normal.in" at: 07/05/15 11.13.31.136
+(Reader thread 78) threadID: 2826700544	Ends   reading "normal.in" at: 07/05/15 11.13.31.192
+(Reader thread 64) threadID: 2944198400	Ends   reading "normal.in" at: 07/05/15 11.13.31.223
+(Reader thread 77) threadID: 2835093248	Ends   reading "normal.in" at: 07/05/15 11.13.31.232
+(Reader thread 11) threadID: 3598698240	Ends   reading "normal.in" at: 07/05/15 11.13.31.282
+(Reader thread 45) threadID: 3103659776	Ends   reading "normal.in" at: 07/05/15 11.13.31.286
+(Reader thread 0) threadID: 3964569344	Ends   reading "normal.in" at: 07/05/15 11.13.31.294
+(Reader thread 29) threadID: 3237943040	Ends   reading "normal.in" at: 07/05/15 11.13.31.305
+(Reader thread 34) threadID: 3195979520	Ends   reading "normal.in" at: 07/05/15 11.13.31.327
+(Reader thread 50) threadID: 3061696256	Ends   reading "normal.in" at: 07/05/15 11.13.31.338
+(Reader thread 67) threadID: 2919020288	Ends   reading "normal.in" at: 07/05/15 11.13.31.338
+(Reader thread 35) threadID: 3187586816	Ends   reading "normal.in" at: 07/05/15 11.13.31.340
+(Reader thread 74) threadID: 2860271360	Ends   reading "normal.in" at: 07/05/15 11.13.31.346
+(Reader thread 81) threadID: 2801522432	Ends   reading "normal.in" at: 07/05/15 11.13.31.352
+(Reader thread 71) threadID: 2885449472	Ends   reading "normal.in" at: 07/05/15 11.13.31.363
+(Reader thread 47) threadID: 3086874368	Ends   reading "normal.in" at: 07/05/15 11.13.31.365
+(Reader thread 43) threadID: 3120445184	Ends   reading "normal.in" at: 07/05/15 11.13.31.369
+(Reader thread 27) threadID: 3254728448	Ends   reading "normal.in" at: 07/05/15 11.13.31.382
+(Reader thread 62) threadID: 2960983808	Ends   reading "normal.in" at: 07/05/15 11.13.31.415
+(Reader thread 42) threadID: 3128837888	Ends   reading "normal.in" at: 07/05/15 11.13.31.438
+(Reader thread 38) threadID: 3162408704	Ends   reading "normal.in" at: 07/05/15 11.13.31.449
+(Reader thread 41) threadID: 3137230592	Ends   reading "normal.in" at: 07/05/15 11.13.31.451
+(Reader thread 10) threadID: 3607090944	Ends   reading "normal.in" at: 07/05/15 11.13.31.455
+(Reader thread 61) threadID: 2969376512	Ends   reading "normal.in" at: 07/05/15 11.13.31.470
+(Reader thread 79) threadID: 2818307840	Ends   reading "normal.in" at: 07/05/15 11.13.31.473
+(Reader thread 24) threadID: 3279906560	Ends   reading "normal.in" at: 07/05/15 11.13.31.476
+(Reader thread 31) threadID: 3221157632	Ends   reading "normal.in" at: 07/05/15 11.13.31.481
+(Reader thread 68) threadID: 2910627584	Ends   reading "normal.in" at: 07/05/15 11.13.31.482
+(Reader thread 49) threadID: 3070088960	Ends   reading "normal.in" at: 07/05/15 11.13.31.482
+(Reader thread 48) threadID: 3078481664	Ends   reading "normal.in" at: 07/05/15 11.13.31.493
+(Reader thread 22) threadID: 3296691968	Ends   reading "normal.in" at: 07/05/15 11.13.31.495
+(Reader thread 55) threadID: 3019732736	Ends   reading "normal.in" at: 07/05/15 11.13.31.497
+(Reader thread 7) threadID: 3905820416	Ends   reading "normal.in" at: 07/05/15 11.13.31.499
+(Reader thread 53) threadID: 3036518144	Ends   reading "normal.in" at: 07/05/15 11.13.31.506
+(Reader thread 40) threadID: 3145623296	Ends   reading "normal.in" at: 07/05/15 11.13.31.508
+(Reader thread 56) threadID: 3011340032	Ends   reading "normal.in" at: 07/05/15 11.13.31.509
+(Reader thread 16) threadID: 3347048192	Ends   reading "normal.in" at: 07/05/15 11.13.31.518
+(Reader thread 59) threadID: 2986161920	Ends   reading "normal.in" at: 07/05/15 11.13.31.518
+(Reader thread 26) threadID: 3263121152	Ends   reading "normal.in" at: 07/05/15 11.13.31.530
+(Reader thread 15) threadID: 3355440896	Ends   reading "normal.in" at: 07/05/15 11.13.31.531
+(Reader thread 70) threadID: 2893842176	Ends   reading "normal.in" at: 07/05/15 11.13.31.531
+(Reader thread 69) threadID: 2902234880	Ends   reading "normal.in" at: 07/05/15 11.13.31.533
+(Reader thread 58) threadID: 2994554624	Ends   reading "normal.in" at: 07/05/15 11.13.31.539
+(Reader thread 21) threadID: 3305084672	Ends   reading "normal.in" at: 07/05/15 11.13.31.541
+(Reader thread 57) threadID: 3002947328	Ends   reading "normal.in" at: 07/05/15 11.13.31.556
+(Reader thread 20) threadID: 3313477376	Ends   reading "normal.in" at: 07/05/15 11.13.31.562
+(Reader thread 73) threadID: 2868664064	Ends   reading "normal.in" at: 07/05/15 11.13.31.562
+(Reader thread 30) threadID: 3229550336	Ends   reading "normal.in" at: 07/05/15 11.13.31.564
+(Reader thread 6) threadID: 3914213120	Ends   reading "normal.in" at: 07/05/15 11.13.31.572
+
+Normal() test run end on 07/05/15 11.13.31.572
+
+
+Normal() test run started on 07/05/15 11.16.40.765
+Total Threads: 41
+(Reader thread 0) threadID: 489469696	Created at: 07/05/15 11.16.40.766
+(Writer thread 2) threadID: 472684288	Created at: 07/05/15 11.16.40.766
+(Reader thread 1) threadID: 481076992	Created at: 07/05/15 11.16.40.766
+(Writer thread 2) threadID: 472684288	Begins writing "normal.in" at: 07/05/15 11.16.40.766
+(Reader thread 0) threadID: 489469696	Begins reading "normal.in" at: 07/05/15 11.16.40.766
+(Reader thread 3) threadID: 464291584	Created at: 07/05/15 11.16.40.766
+(Reader thread 4) threadID: 321681152	Created at: 07/05/15 11.16.40.766
+(Reader thread 1) threadID: 481076992	Begins reading "normal.in" at: 07/05/15 11.16.40.766
+(Reader thread 4) threadID: 321681152	Begins reading "normal.in" at: 07/05/15 11.16.40.766
+(Reader thread 3) threadID: 464291584	Begins reading "normal.in" at: 07/05/15 11.16.40.766
+(Writer thread 2) threadID: 472684288	Ends   writing "normal.in" at: 07/05/15 11.16.40.767
+(Reader thread 5) threadID: 455898880	Created at: 07/05/15 11.16.40.790
+(Reader thread 6) threadID: 447506176	Created at: 07/05/15 11.16.40.790
+(Reader thread 6) threadID: 447506176	Begins reading "normal.in" at: 07/05/15 11.16.40.790
+(Reader thread 5) threadID: 455898880	Begins reading "normal.in" at: 07/05/15 11.16.40.798
+(Reader thread 12) threadID: 313288448	Created at: 07/05/15 11.16.40.810
+(Reader thread 12) threadID: 313288448	Begins reading "normal.in" at: 07/05/15 11.16.40.810
+(Reader thread 11) threadID: 335542016	Created at: 07/05/15 11.16.40.812
+(Reader thread 11) threadID: 335542016	Begins reading "normal.in" at: 07/05/15 11.16.40.812
+(Reader thread 40) threadID: 3959355136	Created at: 07/05/15 11.16.40.814
+(Reader thread 40) threadID: 3959355136	Begins reading "normal.in" at: 07/05/15 11.16.40.814
+(Reader thread 13) threadID: 304895744	Created at: 07/05/15 11.16.40.818
+(Writer thread 36) threadID: 3992925952	Created at: 07/05/15 11.16.40.818
+(Reader thread 25) threadID: 4085245696	Created at: 07/05/15 11.16.40.818
+(Reader thread 29) threadID: 4051674880	Created at: 07/05/15 11.16.40.818
+(Reader thread 35) threadID: 4001318656	Created at: 07/05/15 11.16.40.818
+(Reader thread 27) threadID: 4068460288	Created at: 07/05/15 11.16.40.818
+(Reader thread 13) threadID: 304895744	Begins reading "normal.in" at: 07/05/15 11.16.40.818
+(Writer thread 32) threadID: 4026496768	Created at: 07/05/15 11.16.40.818
+(Writer thread 15) threadID: 288110336	Created at: 07/05/15 11.16.40.818
+(Writer thread 14) threadID: 296503040	Created at: 07/05/15 11.16.40.818
+(Reader thread 24) threadID: 4093638400	Created at: 07/05/15 11.16.40.818
+(Reader thread 26) threadID: 4076852992	Created at: 07/05/15 11.16.40.818
+(Reader thread 21) threadID: 33535744	Created at: 07/05/15 11.16.40.818
+(Reader thread 34) threadID: 4009711360	Created at: 07/05/15 11.16.40.818
+(Reader thread 25) threadID: 4085245696	Begins reading "normal.in" at: 07/05/15 11.16.40.818
+(Writer thread 17) threadID: 67106560	Created at: 07/05/15 11.16.40.818
+(Reader thread 35) threadID: 4001318656	Begins reading "normal.in" at: 07/05/15 11.16.40.818
+(Reader thread 29) threadID: 4051674880	Begins reading "normal.in" at: 07/05/15 11.16.40.818
+(Reader thread 27) threadID: 4068460288	Begins reading "normal.in" at: 07/05/15 11.16.40.818
+(Reader thread 18) threadID: 58713856	Created at: 07/05/15 11.16.40.818
+(Reader thread 19) threadID: 50321152	Created at: 07/05/15 11.16.40.818
+(Reader thread 20) threadID: 41928448	Created at: 07/05/15 11.16.40.818
+(Reader thread 28) threadID: 4060067584	Created at: 07/05/15 11.16.40.818
+(Reader thread 23) threadID: 16750336	Created at: 07/05/15 11.16.40.818
+(Writer thread 36) threadID: 3992925952	Begins writing "normal.in" at: 07/05/15 11.16.40.818
+(Reader thread 30) threadID: 4043282176	Created at: 07/05/15 11.16.40.818
+(Writer thread 37) threadID: 3984533248	Created at: 07/05/15 11.16.40.819
+(Writer thread 33) threadID: 4018104064	Created at: 07/05/15 11.16.40.819
+(Writer thread 38) threadID: 3976140544	Created at: 07/05/15 11.16.40.819
+(Writer thread 22) threadID: 25143040	Created at: 07/05/15 11.16.40.819
+(Reader thread 39) threadID: 3967747840	Created at: 07/05/15 11.16.40.819
+(Reader thread 31) threadID: 4034889472	Created at: 07/05/15 11.16.40.819
+(Writer thread 32) threadID: 4026496768	Begins writing "normal.in" at: 07/05/15 11.16.40.819
+(Writer thread 16) threadID: 279717632	Created at: 07/05/15 11.16.40.819
+(Writer thread 14) threadID: 296503040	Begins writing "normal.in" at: 07/05/15 11.16.40.819
+(Writer thread 15) threadID: 288110336	Begins writing "normal.in" at: 07/05/15 11.16.40.819
+(Reader thread 24) threadID: 4093638400	Begins reading "normal.in" at: 07/05/15 11.16.40.819
+(Reader thread 26) threadID: 4076852992	Begins reading "normal.in" at: 07/05/15 11.16.40.819
+(Reader thread 21) threadID: 33535744	Begins reading "normal.in" at: 07/05/15 11.16.40.819
+(Reader thread 34) threadID: 4009711360	Begins reading "normal.in" at: 07/05/15 11.16.40.819
+(Writer thread 17) threadID: 67106560	Begins writing "normal.in" at: 07/05/15 11.16.40.823
+(Reader thread 19) threadID: 50321152	Begins reading "normal.in" at: 07/05/15 11.16.40.826
+(Reader thread 18) threadID: 58713856	Begins reading "normal.in" at: 07/05/15 11.16.40.826
+(Reader thread 28) threadID: 4060067584	Begins reading "normal.in" at: 07/05/15 11.16.40.826
+(Reader thread 23) threadID: 16750336	Begins reading "normal.in" at: 07/05/15 11.16.40.830
+(Reader thread 20) threadID: 41928448	Begins reading "normal.in" at: 07/05/15 11.16.40.830
+(Reader thread 30) threadID: 4043282176	Begins reading "normal.in" at: 07/05/15 11.16.40.834
+(Writer thread 37) threadID: 3984533248	Begins writing "normal.in" at: 07/05/15 11.16.40.834
+(Writer thread 38) threadID: 3976140544	Begins writing "normal.in" at: 07/05/15 11.16.40.834
+(Writer thread 22) threadID: 25143040	Begins writing "normal.in" at: 07/05/15 11.16.40.834
+(Reader thread 39) threadID: 3967747840	Begins reading "normal.in" at: 07/05/15 11.16.40.834
+(Writer thread 33) threadID: 4018104064	Begins writing "normal.in" at: 07/05/15 11.16.40.834
+(Reader thread 10) threadID: 413935360	Created at: 07/05/15 11.16.40.838
+(Reader thread 9) threadID: 422328064	Created at: 07/05/15 11.16.40.838
+(Reader thread 8) threadID: 430720768	Created at: 07/05/15 11.16.40.838
+(Reader thread 7) threadID: 439113472	Created at: 07/05/15 11.16.40.838
+(Writer thread 16) threadID: 279717632	Begins writing "normal.in" at: 07/05/15 11.16.40.838
+(Reader thread 31) threadID: 4034889472	Begins reading "normal.in" at: 07/05/15 11.16.40.874
+(Writer thread 36) threadID: 3992925952	Ends   writing "normal.in" at: 07/05/15 11.16.40.878
+(Writer thread 32) threadID: 4026496768	Ends   writing "normal.in" at: 07/05/15 11.16.40.879
+(Reader thread 10) threadID: 413935360	Begins reading "normal.in" at: 07/05/15 11.16.40.879
+(Reader thread 9) threadID: 422328064	Begins reading "normal.in" at: 07/05/15 11.16.40.879
+(Reader thread 8) threadID: 430720768	Begins reading "normal.in" at: 07/05/15 11.16.40.879
+(Reader thread 7) threadID: 439113472	Begins reading "normal.in" at: 07/05/15 11.16.40.879
+(Writer thread 14) threadID: 296503040	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 15) threadID: 288110336	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 37) threadID: 3984533248	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 22) threadID: 25143040	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 33) threadID: 4018104064	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 38) threadID: 3976140544	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 17) threadID: 67106560	Ends   writing "normal.in" at: 07/05/15 11.16.40.886
+(Writer thread 16) threadID: 279717632	Ends   writing "normal.in" at: 07/05/15 11.16.40.906
+(Reader thread 1) threadID: 481076992	Ends   reading "normal.in" at: 07/05/15 11.16.45.838
+(Reader thread 6) threadID: 447506176	Ends   reading "normal.in" at: 07/05/15 11.16.45.974
+(Reader thread 40) threadID: 3959355136	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 5) threadID: 455898880	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 19) threadID: 50321152	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 21) threadID: 33535744	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 34) threadID: 4009711360	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 7) threadID: 439113472	Ends   reading "normal.in" at: 07/05/15 11.16.46.163
+(Reader thread 20) threadID: 41928448	Ends   reading "normal.in" at: 07/05/15 11.16.46.168
+(Reader thread 18) threadID: 58713856	Ends   reading "normal.in" at: 07/05/15 11.16.46.203
+(Reader thread 24) threadID: 4093638400	Ends   reading "normal.in" at: 07/05/15 11.16.46.203
+(Reader thread 26) threadID: 4076852992	Ends   reading "normal.in" at: 07/05/15 11.16.46.203
+(Reader thread 23) threadID: 16750336	Ends   reading "normal.in" at: 07/05/15 11.16.46.203
+(Reader thread 8) threadID: 430720768	Ends   reading "normal.in" at: 07/05/15 11.16.46.203
+(Reader thread 0) threadID: 489469696	Ends   reading "normal.in" at: 07/05/15 11.16.46.459
+(Reader thread 25) threadID: 4085245696	Ends   reading "normal.in" at: 07/05/15 11.16.46.469
+(Reader thread 4) threadID: 321681152	Ends   reading "normal.in" at: 07/05/15 11.16.46.473
+(Reader thread 28) threadID: 4060067584	Ends   reading "normal.in" at: 07/05/15 11.16.46.473
+(Reader thread 29) threadID: 4051674880	Ends   reading "normal.in" at: 07/05/15 11.16.46.499
+(Reader thread 3) threadID: 464291584	Ends   reading "normal.in" at: 07/05/15 11.16.46.499
+(Reader thread 9) threadID: 422328064	Ends   reading "normal.in" at: 07/05/15 11.16.46.499
+(Reader thread 10) threadID: 413935360	Ends   reading "normal.in" at: 07/05/15 11.16.46.509
+(Reader thread 30) threadID: 4043282176	Ends   reading "normal.in" at: 07/05/15 11.16.46.510
+(Reader thread 27) threadID: 4068460288	Ends   reading "normal.in" at: 07/05/15 11.16.46.512
+(Reader thread 35) threadID: 4001318656	Ends   reading "normal.in" at: 07/05/15 11.16.46.513
+(Reader thread 13) threadID: 304895744	Ends   reading "normal.in" at: 07/05/15 11.16.46.515
+(Reader thread 11) threadID: 335542016	Ends   reading "normal.in" at: 07/05/15 11.16.46.518
+(Reader thread 12) threadID: 313288448	Ends   reading "normal.in" at: 07/05/15 11.16.46.533
+(Reader thread 39) threadID: 3967747840	Ends   reading "normal.in" at: 07/05/15 11.16.46.546
+(Reader thread 31) threadID: 4034889472	Ends   reading "normal.in" at: 07/05/15 11.16.46.548
+
+Normal() test run end on 07/05/15 11.16.46.549
+
+
+Normal() test run started on 07/05/15 11.18.20.570
+Total Threads: 29
+(Reader thread 1) threadID: 1954838272	Created at: 07/05/15 11.18.20.571
+(Reader thread 3) threadID: 1811937024	Created at: 07/05/15 11.18.20.571
+(Writer thread 0) threadID: 1963230976	Created at: 07/05/15 11.18.20.571
+(Reader thread 1) threadID: 1954838272	Begins reading "normal.in" at: 07/05/15 11.18.20.571
+(Reader thread 2) threadID: 1946445568	Created at: 07/05/15 11.18.20.571
+(Writer thread 0) threadID: 1963230976	Begins writing "normal.in" at: 07/05/15 11.18.20.571
+(Reader thread 3) threadID: 1811937024	Begins reading "normal.in" at: 07/05/15 11.18.20.571
+(Reader thread 2) threadID: 1946445568	Begins reading "normal.in" at: 07/05/15 11.18.20.575
+(Writer thread 0) threadID: 1963230976	Ends   writing "normal.in" at: 07/05/15 11.18.20.579
+(Reader thread 10) threadID: 1887696640	Created at: 07/05/15 11.18.20.585
+(Reader thread 10) threadID: 1887696640	Begins reading "normal.in" at: 07/05/15 11.18.20.587
+(Reader thread 4) threadID: 1938052864	Created at: 07/05/15 11.18.20.587
+(Reader thread 12) threadID: 1795151616	Created at: 07/05/15 11.18.20.587
+(Reader thread 11) threadID: 1803544320	Created at: 07/05/15 11.18.20.587
+(Reader thread 4) threadID: 1938052864	Begins reading "normal.in" at: 07/05/15 11.18.20.587
+(Reader thread 21) threadID: 1644148480	Created at: 07/05/15 11.18.20.595
+(Reader thread 27) threadID: 1384105728	Created at: 07/05/15 11.18.20.595
+(Reader thread 22) threadID: 1635755776	Created at: 07/05/15 11.18.20.595
+(Reader thread 26) threadID: 1392498432	Created at: 07/05/15 11.18.20.595
+(Reader thread 25) threadID: 1400891136	Created at: 07/05/15 11.18.20.595
+(Reader thread 24) threadID: 1409283840	Created at: 07/05/15 11.18.20.595
+(Reader thread 20) threadID: 1652541184	Created at: 07/05/15 11.18.20.595
+(Reader thread 28) threadID: 1375713024	Created at: 07/05/15 11.18.20.595
+(Writer thread 23) threadID: 1627363072	Created at: 07/05/15 11.18.20.595
+(Reader thread 19) threadID: 1660933888	Created at: 07/05/15 11.18.20.596
+(Reader thread 18) threadID: 1669326592	Created at: 07/05/15 11.18.20.596
+(Reader thread 13) threadID: 1786758912	Created at: 07/05/15 11.18.20.596
+(Reader thread 11) threadID: 1803544320	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 12) threadID: 1795151616	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 9) threadID: 1896089344	Created at: 07/05/15 11.18.20.596
+(Reader thread 14) threadID: 1778366208	Created at: 07/05/15 11.18.20.596
+(Reader thread 17) threadID: 1677719296	Created at: 07/05/15 11.18.20.596
+(Reader thread 16) threadID: 1761580800	Created at: 07/05/15 11.18.20.596
+(Reader thread 15) threadID: 1769973504	Created at: 07/05/15 11.18.20.596
+(Reader thread 28) threadID: 1375713024	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 25) threadID: 1400891136	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 20) threadID: 1652541184	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 24) threadID: 1409283840	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 26) threadID: 1392498432	Begins reading "normal.in" at: 07/05/15 11.18.20.596
+(Reader thread 19) threadID: 1660933888	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 22) threadID: 1635755776	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 18) threadID: 1669326592	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 27) threadID: 1384105728	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Writer thread 23) threadID: 1627363072	Begins writing "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 21) threadID: 1644148480	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 13) threadID: 1786758912	Begins reading "normal.in" at: 07/05/15 11.18.20.597
+(Reader thread 9) threadID: 1896089344	Begins reading "normal.in" at: 07/05/15 11.18.20.609
+(Reader thread 8) threadID: 1904482048	Created at: 07/05/15 11.18.20.609
+(Reader thread 17) threadID: 1677719296	Begins reading "normal.in" at: 07/05/15 11.18.20.631
+(Reader thread 14) threadID: 1778366208	Begins reading "normal.in" at: 07/05/15 11.18.20.631
+(Reader thread 16) threadID: 1761580800	Begins reading "normal.in" at: 07/05/15 11.18.20.635
+(Reader thread 15) threadID: 1769973504	Begins reading "normal.in" at: 07/05/15 11.18.20.635
+(Reader thread 8) threadID: 1904482048	Begins reading "normal.in" at: 07/05/15 11.18.20.639
+(Writer thread 23) threadID: 1627363072	Ends   writing "normal.in" at: 07/05/15 11.18.20.645
+(Writer thread 7) threadID: 1912874752	Created at: 07/05/15 11.18.20.651
+(Reader thread 6) threadID: 1921267456	Created at: 07/05/15 11.18.20.655
+(Reader thread 5) threadID: 1929660160	Created at: 07/05/15 11.18.20.656
+(Writer thread 7) threadID: 1912874752	Begins writing "normal.in" at: 07/05/15 11.18.20.675
+(Reader thread 6) threadID: 1921267456	Begins reading "normal.in" at: 07/05/15 11.18.20.675
+(Reader thread 5) threadID: 1929660160	Begins reading "normal.in" at: 07/05/15 11.18.20.679
+(Writer thread 7) threadID: 1912874752	Ends   writing "normal.in" at: 07/05/15 11.18.20.683
+(Reader thread 26) threadID: 1392498432	Ends   reading "normal.in" at: 07/05/15 11.18.25.025
+(Reader thread 12) threadID: 1795151616	Ends   reading "normal.in" at: 07/05/15 11.18.25.028
+(Reader thread 5) threadID: 1929660160	Ends   reading "normal.in" at: 07/05/15 11.18.25.039
+(Reader thread 16) threadID: 1761580800	Ends   reading "normal.in" at: 07/05/15 11.18.25.039
+(Reader thread 21) threadID: 1644148480	Ends   reading "normal.in" at: 07/05/15 11.18.25.045
+(Reader thread 1) threadID: 1954838272	Ends   reading "normal.in" at: 07/05/15 11.18.25.047
+(Reader thread 15) threadID: 1769973504	Ends   reading "normal.in" at: 07/05/15 11.18.25.058
+(Reader thread 4) threadID: 1938052864	Ends   reading "normal.in" at: 07/05/15 11.18.25.068
+(Reader thread 24) threadID: 1409283840	Ends   reading "normal.in" at: 07/05/15 11.18.25.068
+(Reader thread 10) threadID: 1887696640	Ends   reading "normal.in" at: 07/05/15 11.18.25.068
+(Reader thread 11) threadID: 1803544320	Ends   reading "normal.in" at: 07/05/15 11.18.25.070
+(Reader thread 6) threadID: 1921267456	Ends   reading "normal.in" at: 07/05/15 11.18.25.071
+(Reader thread 2) threadID: 1946445568	Ends   reading "normal.in" at: 07/05/15 11.18.25.298
+(Reader thread 3) threadID: 1811937024	Ends   reading "normal.in" at: 07/05/15 11.18.25.306
+(Reader thread 19) threadID: 1660933888	Ends   reading "normal.in" at: 07/05/15 11.18.25.370
+(Reader thread 27) threadID: 1384105728	Ends   reading "normal.in" at: 07/05/15 11.18.25.378
+(Reader thread 22) threadID: 1635755776	Ends   reading "normal.in" at: 07/05/15 11.18.25.381
+(Reader thread 20) threadID: 1652541184	Ends   reading "normal.in" at: 07/05/15 11.18.25.386
+(Reader thread 13) threadID: 1786758912	Ends   reading "normal.in" at: 07/05/15 11.18.25.388
+(Reader thread 18) threadID: 1669326592	Ends   reading "normal.in" at: 07/05/15 11.18.25.389
+(Reader thread 14) threadID: 1778366208	Ends   reading "normal.in" at: 07/05/15 11.18.25.393
+(Reader thread 17) threadID: 1677719296	Ends   reading "normal.in" at: 07/05/15 11.18.25.393
+(Reader thread 9) threadID: 1896089344	Ends   reading "normal.in" at: 07/05/15 11.18.25.394
+(Reader thread 28) threadID: 1375713024	Ends   reading "normal.in" at: 07/05/15 11.18.25.395
+(Reader thread 25) threadID: 1400891136	Ends   reading "normal.in" at: 07/05/15 11.18.25.399
+(Reader thread 8) threadID: 1904482048	Ends   reading "normal.in" at: 07/05/15 11.18.25.403
+
+Normal() test run end on 07/05/15 11.18.25.404
